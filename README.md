@@ -2,8 +2,8 @@
 
 本项目主要分两部分
 
-- Spring Boot文档翻译
-- 样例工程
+- SpringBoot教程
+- SpringBoot样例
 
 ## 使用Spring Boot的背景
 
