@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](./Tutorial/README.md)
+* [简介](Tutorial/README.md)
 * [快速入门](Tutorial/chapter1.md)
 * [框架详解](Tutorial/chapter2.md)
    * 项目构建(Tutorial/chapter2-1.md)
