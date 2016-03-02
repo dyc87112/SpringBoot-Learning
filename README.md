@@ -2,10 +2,13 @@
 
 本项目内容为SpringBoot教程对应的程序样例。
 
-教程请移步：http://spring-boot.didispace.com
+教程请移步：http://blog.didispace.com
 
-样例列表建Tag
+样例列表见Branch或Tag
 
-- chapter1：快速入门，基本项目构建，引入web模块，完成一个简单的restful service
-- chapter3：web应用
+- master：快速入门，可作为工程脚手架
+- chapter1：快速入门，基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API
+- chapter3-1-1：构建一个较为复杂的RESTful API，以及单元测试
 
+其他的一些实例：
+- other-1：融e联的推广案例
