@@ -1,9 +1,13 @@
 package com.didispace.domain;
 
+
+
 /**
- * @author didi
+ *
+ * @author 程序猿DD
  * @version 1.0.0
- * @date 16/3/1 下午12:21.
+ * @blog http://blog.didispace.com
+ *
  */
 public class User {
 
