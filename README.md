@@ -11,6 +11,7 @@
 - chapter3-1-2：使用Thymeleaf模板引擎渲染web视图
 - chapter3-1-3：使用Freemarker模板引擎渲染web视图
 - chapter3-1-4：使用Velocity模板引擎渲染web视图
-- chapter3-2-1：数据访问
+- chapter3-2-1：数据访问，jdbcTemplate使用
+- chapter3-2-2：数据访问，spring-data-jpa使用
 
 
