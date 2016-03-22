@@ -21,8 +21,8 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 数据访问
 
-- chapter3-2-1：使用jdbcTemplate
-- chapter3-2-2：使用spring-data-jpa
+- chapter3-2-1：使用JdbcTemplate
+- chapter3-2-2：使用spring-data-jpa(推荐)
 - chapter3-2-3：多数据源配置
 
 ## 教程整理地址
