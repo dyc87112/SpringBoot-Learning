@@ -50,9 +50,6 @@ public class ApplicationTests {
 		// 测试findAll, 查询所有记录, 验证上面的删除是否成功
 		Assert.assertEquals(9, userRepository.findAll().size());
 
-
-
-
 	}
 
 
