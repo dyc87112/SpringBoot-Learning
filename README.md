@@ -27,6 +27,17 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 - chapter3-2-1：使用JdbcTemplate
 - chapter3-2-2：使用Spring-data-jpa简化数据访问层（推荐）
 - chapter3-2-3：多数据源配置
+- chapter3-2-4：使用NoSQL数据库
+
+### 事务管理
+
+### 缓存支持
+
+### 邮件服务
+
+### 消息服务
+
+###
 
 ## 教程整理地址
 
