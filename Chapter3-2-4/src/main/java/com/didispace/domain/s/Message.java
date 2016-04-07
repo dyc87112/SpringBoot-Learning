@@ -1,4 +1,4 @@
-package com.didispace.domain;
+package com.didispace.domain.s;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -12,7 +12,7 @@ import javax.persistence.Id;
  * @blog http://blog.didispace.com
  */
 @Entity
-public class User {
+public class Message {
 
     @Id
     @GeneratedValue
@@ -22,13 +22,13 @@ public class User {
     private String name;
 
     @Column(nullable = false)
-    private Integer age;
+    private String content;
 
-    public User(){}
+    public Message(){}
 
-    public User(String name, Integer age) {
+    public Message(String name, String content) {
         this.name = name;
-        this.age = age;
+        this.content = content;
     }
 
     public Long getId() {
@@ -47,12 +47,12 @@ public class User {
         this.name = name;
     }
 
-    public Integer getAge() {
-        return age;
+    public String getContent() {
+        return content;
     }
 
-    public void setAge(Integer age) {
-        this.age = age;
+    public void setContent(String content) {
+        this.content = content;
     }
 
 }
