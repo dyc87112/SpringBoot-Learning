@@ -34,8 +34,7 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 日志管理
 
-- chapter5-1-1
-
+- http://blog.didispace.com/springbootlog/
 
 
 ### 缓存支持
