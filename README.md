@@ -32,6 +32,12 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 事务管理
 
+### 日志管理
+
+- chapter5-1-1
+
+
+
 ### 缓存支持
 
 ### 邮件服务
