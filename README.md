@@ -28,7 +28,8 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 - chapter3-2-2：使用Spring-data-jpa简化数据访问层（推荐）
 - chapter3-2-3：多数据源配置（一）：JdbcTemplate
 - chapter3-2-4：多数据源配置（二）：Spring-data-jpa
-- chapter3-2-5：使用NoSQL数据库
+- chapter3-2-5：使用NoSQL数据库（一）：Redis
+- chapter3-2-6：使用NoSQL数据库（二）：MongoDB
 
 ### 事务管理
 
