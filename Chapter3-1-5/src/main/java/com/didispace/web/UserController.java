@@ -23,14 +23,14 @@ public class UserController {
     static Map<Long, User> users = Collections.synchronizedMap(new HashMap<Long, User>());
 
     @ApiOperation(value="获取用户列表", notes="")
-    @RequestMapping(value={"/", ""}, method=RequestMethod.GET)
+    @RequestMapping(value={""}, method=RequestMethod.GET)
     public List<User> getUserList() {
         List<User> r = new ArrayList<User>(users.values());
         return r;
     }
 
     @ApiOperation(value="创建用户", notes="根据User对象创建用户")
-    @RequestMapping(value="/", method=RequestMethod.POST)
+    @RequestMapping(value="", method=RequestMethod.POST)
     public String postUser(@RequestBody User user) {
         users.put(user.getId(), user);
         return "success";
