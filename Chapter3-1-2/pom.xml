@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.didispace</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>Chapter3-1-2</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>demo</name>
-	<description>Spring Boot Web project</description>
+	<name>Chapter3-1-2</name>
+	<description>Spring Boot with Thymeleaf</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -58,6 +58,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
 
 </project>
