@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.didispace</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>Chapter3-2-3</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>demo</name>
+	<name>Chapter3-2-3</name>
 	<description>Spring Boot project</description>
 
 	<parent>
@@ -56,6 +56,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
 
 </project>
