@@ -22,7 +22,7 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 - chapter3-1-3：使用Freemarker模板引擎渲染web视图
 - chapter3-1-4：使用Velocity模板引擎渲染web视图
 - chapter3-1-5：使用Swagger2构建RESTful API
-- chapter3-1-6：异常处理
+- chapter3-1-6：统一异常处理
 
 ### 数据访问
 
