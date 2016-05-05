@@ -15,6 +15,10 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 - chapter1：基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API
 
+### 工程配置
+
+- chapter2-1-1：配置文件详解：自定义属性、随机数、多环境配置等
+
 ### Web开发
 
 - chapter3-1-1：构建一个较为复杂的RESTful API以及单元测试
