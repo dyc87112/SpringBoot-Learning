@@ -31,10 +31,10 @@ public class ApplicationTests {
 
 
 	@Test
-	public void getHello() throws Exception {
-		Assert.assertEquals(blogProperties.getName(), "程序猿DD");
-		Assert.assertEquals(blogProperties.getTitle(), "Spring Boot教程");
-		Assert.assertEquals(blogProperties.getDesc(), "程序猿DD正在努力写《Spring Boot教程》");
+	public void test1() throws Exception {
+		Assert.assertEquals("程序猿DD", blogProperties.getName());
+		Assert.assertEquals("Spring Boot教程", blogProperties.getTitle());
+		Assert.assertEquals("程序猿DD正在努力写《Spring Boot教程》", blogProperties.getDesc());
 
 		log.info("随机数测试输出：");
 		log.info("随机字符串 : " + blogProperties.getValue());
