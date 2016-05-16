@@ -13,29 +13,29 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 快速入门
 
-- chapter1：基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API
+- chapter1：[基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
 
 ### 工程配置
 
-- chapter2-1-1：配置文件详解：自定义属性、随机数、多环境配置等
+- chapter2-1-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
 
 ### Web开发
 
-- chapter3-1-1：构建一个较为复杂的RESTful API以及单元测试
-- chapter3-1-2：使用Thymeleaf模板引擎渲染web视图
-- chapter3-1-3：使用Freemarker模板引擎渲染web视图
-- chapter3-1-4：使用Velocity模板引擎渲染web视图
-- chapter3-1-5：使用Swagger2构建RESTful API
-- chapter3-1-6：统一异常处理
+- chapter3-1-1：[构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
+- chapter3-1-2：[使用Thymeleaf模板引擎渲染web视图]（http://blog.didispace.com/springbootweb/）
+- chapter3-1-3：[使用Freemarker模板引擎渲染web视图]（http://blog.didispace.com/springbootweb/）
+- chapter3-1-4：[使用Velocity模板引擎渲染web视图]（http://blog.didispace.com/springbootweb/）
+- chapter3-1-5：[使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
+- chapter3-1-6：[统一异常处理](http://blog.didispace.com/springbootexception/)
 
 ### 数据访问
 
-- chapter3-2-1：使用JdbcTemplate
-- chapter3-2-2：使用Spring-data-jpa简化数据访问层（推荐）
-- chapter3-2-3：多数据源配置（一）：JdbcTemplate
-- chapter3-2-4：多数据源配置（二）：Spring-data-jpa
-- chapter3-2-5：使用NoSQL数据库（一）：Redis
-- chapter3-2-6：使用NoSQL数据库（二）：MongoDB
+- chapter3-2-1：[使用JdbcTemplate](http://blog.didispace.com/springbootdata1/)
+- chapter3-2-2：[使用Spring-data-jpa简化数据访问层（推荐）](http://blog.didispace.com/springbootdata2/)
+- chapter3-2-3：[多数据源配置（一）：JdbcTemplate](http://blog.didispace.com/springbootmultidatasource/)
+- chapter3-2-4：[多数据源配置（二）：Spring-data-jpa](http://blog.didispace.com/springbootmultidatasource/)
+- chapter3-2-5：[使用NoSQL数据库（一）：Redis](http://blog.didispace.com/springbootredis/)
+- chapter3-2-6：[使用NoSQL数据库（二）：MongoDB](http://blog.didispace.com/springbootmongodb/)
 
 ### 事务管理
 
