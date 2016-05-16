@@ -39,6 +39,13 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 事务管理
 
+- chapter3-3-1：
+
+### 其他内容
+- chapter4-1-1：[使用@Scheduled创建定时任务](http://blog.didispace.com/springbootscheduled/)
+- chapter4-1-2：[使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
+
+
 ### 日志管理
 
 - http://blog.didispace.com/springbootlog/
