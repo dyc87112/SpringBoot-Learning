@@ -48,8 +48,8 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 日志管理
 
-- http://blog.didispace.com/springbootlog/
-
+- chapter4-2-1：[日志配置](http://blog.didispace.com/springbootlog/)
+- chapter4-2-2：
 
 ### 缓存支持
 
