@@ -49,7 +49,7 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 ### 日志管理
 
 - chapter4-2-1：[日志配置](http://blog.didispace.com/springbootlog/)
-- chapter4-2-2：
+- chapter4-2-2：[使用log4j记录日志](http://blog.didispace.com/springbootlog4j/)
 
 ### 缓存支持
 
