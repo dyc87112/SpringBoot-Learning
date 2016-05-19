@@ -48,9 +48,10 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 日志管理
 
-- chapter4-2-1：[日志配置](http://blog.didispace.com/springbootlog/)
+- chapter4-2-1：[默认日志的配置](http://blog.didispace.com/springbootlog/)
 - chapter4-2-2：[使用log4j记录日志](http://blog.didispace.com/springbootlog4j/)
-- chapter4-2-3：[使用AOP进行Web层日志记录]()
+- chapter4-2-3：[对log4j进行多环境不同日志级别的控制](http://blog.didispace.com/springbootlog4jmuilt/)
+- chapter4-2-4：[使用AOP统一处理Web请求日志](http://blog.didispace.com/springbootaoplog/)
 
 ### 缓存支持
 
