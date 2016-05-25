@@ -52,6 +52,7 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 - chapter4-2-2：[使用log4j记录日志](http://blog.didispace.com/springbootlog4j/)
 - chapter4-2-3：[对log4j进行多环境不同日志级别的控制](http://blog.didispace.com/springbootlog4jmuilt/)
 - chapter4-2-4：[使用AOP统一处理Web请求日志](http://blog.didispace.com/springbootaoplog/)
+- chapter4-2-5：[使用log4j记录日志到MongoDB](http://blog.didispace.com/springbootlog4jmongodb/)
 
 ### 缓存支持
 
