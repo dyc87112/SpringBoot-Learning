@@ -55,9 +55,10 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 - chapter4-2-4：[使用AOP统一处理Web请求日志](http://blog.didispace.com/springbootaoplog/)
 - chapter4-2-5：[使用log4j记录日志到MongoDB](http://blog.didispace.com/springbootlog4jmongodb/)
 
-### Session管理
+### 安全管理
 
-- chapter-4-3-1：[整合Spring Session]()
+- chapter-4-3-1：[整合Spring Security]()
+- chapter-4-3-2：[整合Spring Session]()
 
 ### 缓存支持
 
