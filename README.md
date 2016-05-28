@@ -39,7 +39,8 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 事务管理
 
-- chapter3-3-1：
+- chapter3-3-1：[使用事务管理](http://blog.didispace.com/springboottransactional/)
+- chapter3-3-2：[分布式事务]()
 
 ### 其他内容
 - chapter4-1-1：[使用@Scheduled创建定时任务](http://blog.didispace.com/springbootscheduled/)
@@ -53,6 +54,11 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 - chapter4-2-3：[对log4j进行多环境不同日志级别的控制](http://blog.didispace.com/springbootlog4jmuilt/)
 - chapter4-2-4：[使用AOP统一处理Web请求日志](http://blog.didispace.com/springbootaoplog/)
 - chapter4-2-5：[使用log4j记录日志到MongoDB](http://blog.didispace.com/springbootlog4jmongodb/)
+
+### 安全管理
+
+- chapter-4-3-1：[整合Spring Security]()
+- chapter-4-3-2：[整合Spring Session]()
 
 ### 缓存支持
 
