@@ -57,7 +57,7 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 安全管理
 
-- chapter-4-3-1：[整合Spring Security]()
+- chapter-4-3-1：[整合Spring Security](http://blog.didispace.com/springbootsecurity/)
 - chapter-4-3-2：[整合Spring Session]()
 
 ### 缓存支持
