@@ -1,0 +1,15 @@
+# Spring properties
+spring:
+  application:
+     name: compute-service
+
+# HTTP Server
+server:
+  port: 2222   # HTTP (Tomcat) port
+
+# Discovery Server Access
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:1111/eureka/
+
