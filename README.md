@@ -66,7 +66,9 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 消息服务
 
-###
+### 构建微服务
+
+- chapter9-1-1：[Spring Cloud构建微服务架构（一）——服务注册与发现](http://blog.didispace.com/springcloud1/)
 
 ## 教程整理地址
 
