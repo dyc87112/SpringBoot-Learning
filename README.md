@@ -40,12 +40,11 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 ### 事务管理
 
 - chapter3-3-1：[使用事务管理](http://blog.didispace.com/springboottransactional/)
-- chapter3-3-2：[分布式事务]()
+- chapter3-3-2：[分布式事务（未完成）]()
 
 ### 其他内容
 - chapter4-1-1：[使用@Scheduled创建定时任务](http://blog.didispace.com/springbootscheduled/)
 - chapter4-1-2：[使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
-
 
 ### 日志管理
 
@@ -57,8 +56,8 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 
 ### 安全管理
 
-- chapter-4-3-1：[整合Spring Security](http://blog.didispace.com/springbootsecurity/)
-- chapter-4-3-2：[整合Spring Session]()
+- chapter-4-3-1：[使用Spring Security](http://blog.didispace.com/springbootsecurity/)
+- chapter-4-3-2：[使用Spring Session（未完成）]()
 
 ### 缓存支持
 
@@ -69,6 +68,7 @@ Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
 ### 构建微服务
 
 - chapter9-1-1：[Spring Cloud构建微服务架构（一）——服务注册与发现](http://blog.didispace.com/springcloud1/)
+- chapter9-1-2：[Spring Cloud构建微服务架构（二）——服务消费者（未完成）]()
 
 ## 教程整理地址
 
