@@ -65,6 +65,8 @@
 
 ### 邮件服务
 
+- chapter-4-5-1：[实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](http://blog.didispace.com/springbootmailsender/)
+
 ### 消息服务
 
 ### 构建微服务
