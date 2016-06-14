@@ -63,7 +63,7 @@
 
 ### 缓存支持
 
-### 邮件服务
+### 邮件发送
 
 - chapter-4-5-1：[实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](http://blog.didispace.com/springbootmailsender/)
 
