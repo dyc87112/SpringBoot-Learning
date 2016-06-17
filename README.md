@@ -63,6 +63,9 @@
 
 ### 缓存支持
 
+- chapter-4-4-1：[注解配置与EhCache使用](http://blog.didispace.com/springbootcache1/)
+- chapter-4-4-2：[使用Redis缓存](http://blog.didispace.com/springbootcache2/)
+
 ### 邮件发送
 
 - chapter-4-5-1：[实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](http://blog.didispace.com/springbootmailsender/)
