@@ -64,7 +64,7 @@
 ### 缓存支持
 
 - chapter-4-4-1：[注解配置与EhCache使用](http://blog.didispace.com/springbootcache1/)
-- chapter-4-4-2：[使用Redis缓存](http://blog.didispace.com/springbootcache2/)
+- chapter-4-4-2：[使用Redis做集中式缓存](http://blog.didispace.com/springbootcache2/)
 
 ### 邮件发送
 
