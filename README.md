@@ -49,7 +49,7 @@
 - chapter4-1-1：[使用@Scheduled创建定时任务](http://blog.didispace.com/springbootscheduled/)
 - chapter4-1-2：[使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
 
-### 日志管理
+##### 日志管理
 
 - chapter4-2-1：[默认日志的配置](http://blog.didispace.com/springbootlog/)
 - chapter4-2-2：[使用log4j记录日志](http://blog.didispace.com/springbootlog4j/)
@@ -57,26 +57,32 @@
 - chapter4-2-4：[使用AOP统一处理Web请求日志](http://blog.didispace.com/springbootaoplog/)
 - chapter4-2-5：[使用log4j记录日志到MongoDB](http://blog.didispace.com/springbootlog4jmongodb/)
 
-### 安全管理
+##### 安全管理
 
-- chapter-4-3-1：[使用Spring Security](http://blog.didispace.com/springbootsecurity/)
-- chapter-4-3-2：[使用Spring Session（未完成）]()
+- chapter4-3-1：[使用Spring Security](http://blog.didispace.com/springbootsecurity/)
+- chapter4-3-2：[使用Spring Session（未完成）]()
 
-### 缓存支持
+##### 缓存支持
 
-- chapter-4-4-1：[注解配置与EhCache使用](http://blog.didispace.com/springbootcache1/)
-- chapter-4-4-2：[使用Redis做集中式缓存](http://blog.didispace.com/springbootcache2/)
+- chapter4-4-1：[注解配置与EhCache使用](http://blog.didispace.com/springbootcache1/)
+- chapter4-4-2：[使用Redis做集中式缓存](http://blog.didispace.com/springbootcache2/)
 
-### 邮件发送
+##### 邮件发送
 
-- chapter-4-5-1：[实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](http://blog.didispace.com/springbootmailsender/)
+- chapter4-5-1：[实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](http://blog.didispace.com/springbootmailsender/)
 
 ### 消息服务
 
+- chapter5-1-1：[JMS（未完成）]
+- chapter5-2-1：[AMQP（未完成）]
+
 ### 构建微服务
 
-- chapter9-1-1：[Spring Cloud构建微服务架构（一）——服务注册与发现](http://blog.didispace.com/springcloud1/)
-- chapter9-1-2：[Spring Cloud构建微服务架构（二）——服务消费者](http://blog.didispace.com/springcloud2/)
+- chapter9-1-1：[Spring Cloud构建微服务架构（一）服务注册与发现](http://blog.didispace.com/springcloud1/)
+- chapter9-1-2：[Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)
+- chapter9-1-3：[Spring Cloud构建微服务架构（三）断路器（未完成）]
+
+- chapter9-2-1：[Spring Boot中使用Dubbo（未完成）]
 
 ## 教程整理地址
 
