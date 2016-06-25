@@ -80,7 +80,7 @@
 
 - chapter9-1-1：[Spring Cloud构建微服务架构（一）服务注册与发现](http://blog.didispace.com/springcloud1/)
 - chapter9-1-2：[Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)
-- chapter9-1-3：[Spring Cloud构建微服务架构（三）断路器（未完成）]
+- chapter9-1-3：[Spring Cloud构建微服务架构（三）断路器](http://blog.didispace.com/springcloud3/)
 
 - chapter9-2-1：[Spring Boot中使用Dubbo（未完成）]
 
