@@ -43,7 +43,7 @@
 ### 事务管理
 
 - chapter3-3-1：[使用事务管理](http://blog.didispace.com/springboottransactional/)
-- chapter3-3-2：[分布式事务（未完成）]()
+- chapter3-3-2：[分布式事务（未完成）]
 
 ### 其他内容
 - chapter4-1-1：[使用@Scheduled创建定时任务](http://blog.didispace.com/springbootscheduled/)
@@ -60,7 +60,7 @@
 #### 安全管理
 
 - chapter4-3-1：[使用Spring Security](http://blog.didispace.com/springbootsecurity/)
-- chapter4-3-2：[使用Spring Session（未完成）]()
+- chapter4-3-2：[使用Spring Session（未完成）]
 
 #### 缓存支持
 
