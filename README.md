@@ -85,7 +85,8 @@
 - chapter9-1-5：[Spring Cloud构建微服务架构（五）服务网关]
 - chapter9-1-6：[Spring Cloud构建微服务架构（六）集群监控]
 
-- chapter9-2-1：[Spring Boot中使用Dubbo（未完成）]
+- chapter9-2-1：[Spring Boot中使用Dubbo进行服务治理]
+- chapter9-2-2：[Spring Boot与Dubbo中管理服务依赖]
 
 ## 教程整理地址
 
