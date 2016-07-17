@@ -96,7 +96,7 @@ http://blog.didispace.com/book/springboot/
 
 ## 打赏支持
 
-![支付宝](http://git.oschina.net/uploads/images/2016/0717/085550_4996ab91_437188.png "支付宝") 
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png "在这里输入图片标题")
 
 ![微信](http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png "微信")
 
