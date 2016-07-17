@@ -96,8 +96,7 @@ http://blog.didispace.com/book/springboot/
 
 ## 打赏支持
 
-![微信](http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png "微信")  ![输入图片说明](http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png "在这里输入图片标题")
 
-<img src="http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png" width="100px" height="100px;" />
+<img src="http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png" width="200px" height="200px;" />
 
-<img src="http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png" width="100px" height="100px;" />
+<img src="http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png" width="200px" height="200px;" />
