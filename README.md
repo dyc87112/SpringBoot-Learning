@@ -90,11 +90,13 @@
 - chapter9-2-1：[Spring Boot中使用Dubbo进行服务治理]
 - chapter9-2-2：[Spring Boot与Dubbo中管理服务依赖]
 
-## 打赏支持
-
-![支付宝](http://git.oschina.net/uploads/images/2016/0717/085550_4996ab91_437188.png "支付宝") ![微信](http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png "微信")
-
-
 ## 教程整理地址
 
 http://blog.didispace.com/book/springboot/
+
+## 打赏支持
+
+![支付宝](http://git.oschina.net/uploads/images/2016/0717/085550_4996ab91_437188.png "支付宝") 
+
+![微信](http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png "微信")
+
