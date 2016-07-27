@@ -82,7 +82,7 @@
 - chapter9-1-2：[Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)
 - chapter9-1-3：[Spring Cloud构建微服务架构（三）断路器](http://blog.didispace.com/springcloud3/)
 - chapter9-1-4：[Spring Cloud构建微服务架构（四）分布式配置中心](http://blog.didispace.com/springcloud4/)
-- chapter9-1-5：[Spring Cloud构建微服务架构（五）服务网关]
+- chapter9-1-5：[Spring Cloud构建微服务架构（五）服务网关](http://blog.didispace.com/springcloud5/)
 - chapter9-1-6：[Spring Cloud构建微服务架构（六）集群监控]
 
 ### Dubbo进行服务治理
