@@ -100,5 +100,6 @@ http://blog.didispace.com/book/springboot/
 
 ## 来“值乎”向我提问
 
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0730/161520_f42f6644_437188.png "在这里输入图片标题")
+<img src="http://git.oschina.net/uploads/images/2016/0730/161520_f42f6644_437188.png" width="200px" height="200px;" />
+
 
