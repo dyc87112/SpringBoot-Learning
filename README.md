@@ -100,6 +100,6 @@ http://blog.didispace.com/book/springboot/
 
 ## 来“值乎”向我提问
 
-<img src="http://git.oschina.net/uploads/images/2016/0730/162035_f78d08d2_437188.png" width="200px" height="308px;" />
+<img src="http://git.oschina.net/uploads/images/2016/0730/162630_28523bbf_437188.jpeg" width="200px" height="200px;" />
 
 
