@@ -90,7 +90,7 @@
 - chapter9-2-1：[Spring Boot中使用Dubbo进行服务治理]
 - chapter9-2-2：[Spring Boot与Dubbo中管理服务依赖]
 
-## 教程整理地址
+## 教程整理地址（时间不足，暂缓更新）
 
 http://blog.didispace.com/book/springboot/
 
