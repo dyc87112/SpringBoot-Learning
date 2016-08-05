@@ -76,7 +76,14 @@
 - chapter5-1-1：[JMS（未完成）]
 - chapter5-2-1：[AMQP（未完成）]
 
+### Dubbo进行服务治理
+
+- chapter9-2-1：[Spring Boot中使用Dubbo进行服务治理]
+- chapter9-2-2：[Spring Boot与Dubbo中管理服务依赖]
+
 ### Spring Cloud构建微服务架构
+
+由于Spring Cloud偏宏观架构，Spring Boot偏微观细节，内容上越来越多，为了两部分内容不互相干扰，所以迁移Spring Cloud内容到：[SpringCloud-Learning项目](http://git.oschina.net/didispace/SpringCloud-Learning-)
 
 - chapter9-1-1：[Spring Cloud构建微服务架构（一）服务注册与发现](http://blog.didispace.com/springcloud1/)
 - chapter9-1-2：[Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)
@@ -85,10 +92,6 @@
 - chapter9-1-5：[Spring Cloud构建微服务架构（五）服务网关](http://blog.didispace.com/springcloud5/)
 - chapter9-1-6：[Spring Cloud构建微服务架构（六）集群监控]
 
-### Dubbo进行服务治理
-
-- chapter9-2-1：[Spring Boot中使用Dubbo进行服务治理]
-- chapter9-2-2：[Spring Boot与Dubbo中管理服务依赖]
 
 ## 教程整理地址（时间不足，暂缓更新）
 
