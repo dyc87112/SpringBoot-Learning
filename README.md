@@ -83,7 +83,7 @@
 
 ### Spring Cloud构建微服务架构
 
-由于Spring Cloud偏宏观架构，Spring Boot偏微观细节，内容上越来越多，为了两部分内容不互相干扰，所以迁移Spring Cloud内容到：[SpringCloud-Learning项目](http://git.oschina.net/didispace/SpringCloud-Learning-)，该项目将不再更新Spring Cloud内容，关注Spring Cloud内容的请移步至[SpringCloud-Learning项目](http://git.oschina.net/didispace/SpringCloud-Learning-)
+由于Spring Cloud偏宏观架构，Spring Boot偏微观细节，内容上越来越多，为了两部分内容不互相干扰，所以迁移Spring Cloud内容到：[SpringCloud-Learning项目](http://git.oschina.net/didispace/SpringCloud-Learning)，该项目将不再更新Spring Cloud内容，关注Spring Cloud内容的请移步至[SpringCloud-Learning项目](http://git.oschina.net/didispace/SpringCloud-Learning)
 
 - chapter9-1-1：[Spring Cloud构建微服务架构（一）服务注册与发现](http://blog.didispace.com/springcloud1/)
 - chapter9-1-2：[Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)
