@@ -39,6 +39,7 @@
 - chapter3-2-5：[使用NoSQL数据库（一）：Redis](http://blog.didispace.com/springbootredis/)
 - chapter3-2-6：[使用NoSQL数据库（二）：MongoDB](http://blog.didispace.com/springbootmongodb/)
 - chapter3-2-7：[整合MyBatis](http://blog.didispace.com/springbootmybatis/)
+- chapter3-2-8：[MyBatis注解配置详解](http://blog.didispace.com/mybatisinfo/)
 
 ### 事务管理
 
