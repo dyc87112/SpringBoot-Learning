@@ -5,7 +5,7 @@
 作者博客：http://blog.didispace.com
 
 - Spring Boot系列博文：http://blog.didispace.com/tag/spring-boot/
-- Spring Cloud系统博文：http://blog.didispace.com/tag/spring-cloud/
+- Spring Cloud系列博文：http://blog.didispace.com/tag/spring-cloud/
 - Spring Cloud中文社区：http://bbs.springcloud.com.cn/
 
 如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
@@ -102,9 +102,4 @@ http://blog.didispace.com/book/springboot/
 ## 打赏支持
 
 <img src="http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png" width="200px" height="200px;" /> <img src="http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png" width="200px" height="200px;" />
-
-## 来“值乎”向我提问
-
-<img src="http://git.oschina.net/uploads/images/2016/0730/162630_28523bbf_437188.jpeg" width="200px" height="200px;" />
-
 
