@@ -76,7 +76,7 @@
 ### 消息服务
 
 - chapter5-1-1：[JMS（未完成）]
-- chapter5-2-1：[AMQP（未完成）]
+- chapter5-2-1：[Spring Boot中使用RabbitMQ](http://blog.didispace.com/spring-boot-rabbitmq/)
 
 ### Dubbo进行服务治理
 
