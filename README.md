@@ -78,6 +78,10 @@
 - chapter5-1-1：[JMS（未完成）]
 - chapter5-2-1：[Spring Boot中使用RabbitMQ](http://blog.didispace.com/spring-boot-rabbitmq/)
 
+### 其他功能
+
+- chapter6-1-1：[使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
+
 ### Dubbo进行服务治理
 
 - chapter9-2-1：[Spring Boot中使用Dubbo进行服务治理]
