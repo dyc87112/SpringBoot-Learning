@@ -12,6 +12,11 @@
 
 如有问题，可联系：didi@potatomato.club
 
+## 欢迎关注我的公众号
+
+![程序猿DD的公众号](http://git.oschina.net/uploads/images/2016/1221/000537_56c3b2f4_437188.jpeg "程序猿DD的公众号")
+
+
 ##样例列表
 
 ### 快速入门
