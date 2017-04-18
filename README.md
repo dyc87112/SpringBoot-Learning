@@ -1,4 +1,4 @@
-#SpringBoot-Learning
+# SpringBoot-Learning
 
 本项目内容为Spring Boot教程程序样例。
 
@@ -12,7 +12,7 @@
 
 如有问题，可联系：didi@potatomato.club
 
-##样例列表
+## 样例列表
 
 ### 快速入门
 
