@@ -3,20 +3,30 @@
 本项目内容为Spring Boot教程程序样例。
 
 作者博客：http://blog.didispace.com
+作者GitHub：https://github.com/dyc87112/SpringBoot-Learning
 
 - Spring Boot系列博文：http://blog.didispace.com/categories/Spring-Boot/
 - Spring Cloud系列博文：http://blog.didispace.com/tag/spring-cloud/
 - Spring Cloud中文社区：http://bbs.springcloud.com.cn/
+- GitHub：https://github.com/dyc87112/
+- 开源中国：http://git.oschina.net/didispace
+- **我的知识问答平台（可以来这里发表您的想法或提出您的问题）：http://qa.didispace.com**
 
 如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
 如有问题，可联系：didi@potatomato.club
+
+## 欢迎关注我的公众号
+
+![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
+
 
 ##样例列表
 
 ### 快速入门
 
 - chapter1：[基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
+- [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 
 ### 工程配置
 
@@ -54,16 +64,11 @@
 #### 日志管理
 
 - chapter4-2-1：[默认日志的配置](http://blog.didispace.com/springbootlog/)
-
 - chapter4-2-2：[使用log4j记录日志](http://blog.didispace.com/springbootlog4j/)
-
 - chapter4-2-3：[对log4j进行多环境不同日志级别的控制](http://blog.didispace.com/springbootlog4jmuilt/)
-
 - chapter4-2-4：[使用AOP统一处理Web请求日志](http://blog.didispace.com/springbootaoplog/)
-
 - chapter4-2-5：[使用log4j记录日志到MongoDB](http://blog.didispace.com/springbootlog4jmongodb/)
-
-- chapter4-2-6：[Spring Boot 1.5.x新特性：动态修改日志级别](http://blog.didispace.com/spring-boot-1-5-x-feature-1/)
+- chapter4-2-6：[Spring Boot 1.5.x新特性：动态修改日志级别](http://blog.didispace.com/spring-boot-1-5-x-feature-1/)]
 
 #### 安全管理
 
@@ -87,15 +92,16 @@
 ### 其他功能
 
 - chapter6-1-1：[使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
+- [Spring Boot Actuator监控端点小结](http://blog.didispace.com/spring-boot-actuator-1/)
+- [在传统Spring应用中使用spring-boot-actuator模块提供监控端点](http://blog.didispace.com/spring-boot-actuator-without-boot/)
+- [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
+- [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
+
 
 ### Dubbo进行服务治理
 
 - chapter9-2-1：[Spring Boot中使用Dubbo进行服务治理]
 - chapter9-2-2：[Spring Boot与Dubbo中管理服务依赖]
-
-## 我的新书
-
-![](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png)
 
 ### Spring Cloud构建微服务架构
 
@@ -108,13 +114,15 @@
 - chapter9-1-5：[Spring Cloud构建微服务架构（五）服务网关](http://blog.didispace.com/springcloud5/)
 - chapter9-1-6：[Spring Cloud构建微服务架构（六）集群监控]
 
+## 我的新书推荐
+
+![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
+
+## 开源项目推荐
+
+- 不错的spring boot实践学习案例：https://git.oschina.net/jeff1993/springboot-learning-example
 
 ## 教程整理地址（时间不足，暂缓更新）
 
 http://blog.didispace.com/book/springboot/
-
-## 打赏支持
-
-<img src="http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png" width="200px" height="200px;" /> <img src="http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png" width="200px" height="200px;" />
-
 
