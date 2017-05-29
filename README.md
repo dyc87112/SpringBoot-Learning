@@ -7,7 +7,7 @@
 
 - Spring Boot系列博文：http://blog.didispace.com/categories/Spring-Boot/
 - Spring Cloud系列博文：http://blog.didispace.com/tag/spring-cloud/
-- Spring Cloud中文社区：http://bbs.springcloud.com.cn/
+- Spring For All社区：http://spring4all.com/
 - GitHub：https://github.com/dyc87112/
 - 开源中国：http://git.oschina.net/didispace
 - **我的知识问答平台（可以来这里发表您的想法或提出您的问题）：http://qa.didispace.com**
@@ -16,10 +16,11 @@
 
 如有问题，可联系：didi@potatomato.club
 
+**声明：本人已放弃"Spring Cloud中国社区"，该社区的任何行为均与本人无关。[Spring For All社区](http://spring4all.com/)是新组建的关于Spring的纯技术交流社区（涵盖Spring Boot、Spring Cloud等内容），集诸多开源爱好者和技术大牛贡献内容和交流问题。我们不夸大、不装逼、做最纯粹的技术分享！！！**
+
 ## 欢迎关注我的公众号
 
 ![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
-
 
 ##样例列表
 
