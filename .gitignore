@@ -1,0 +1,14 @@
+.class
+.classpath
+.project
+build
+bin
+.bak
+.settings
+Thumbs.db
+.DS_Store
+._.DS_Store
+logs
+target
+*.iml
+.idea
