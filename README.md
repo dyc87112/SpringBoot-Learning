@@ -43,6 +43,7 @@
 - chapter3-2-7：[整合MyBatis](http://blog.didispace.com/springbootmybatis/)
 - chapter3-2-8：[MyBatis注解配置详解](http://blog.didispace.com/mybatisinfo/)
 - chapter3-2-9：[使用Flyway来管理数据库版本](http://blog.didispace.com/spring-boot-flyway-db-version/)
+- chapter3-2-10：[使用LDAP来统一管理用户信息](http://blog.didispace.com/spring-boot-ldap-user/)
 
 #### 事务管理
 
