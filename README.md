@@ -17,7 +17,19 @@
 - [腾讯云：3年时长最低265元/年](https://cloud.tencent.com/redirect.php?redirect=1005&cps_key=f6a8af1297bfac40b9d10ffa1270029a)
 - [阿里云：ECS云服务器2折起](https://s.click.taobao.com/t?e=m%3D2%26s%3Dzj4kbQ5lKukcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAq9GNeKfy2AD4SaRmc4YmqYCxNLxWxqxDPY8Eqzf%2BUWbOTauL6DcROffvu81lbXO1DDVuRn8ddiDsEVVC24eqozO54LQ%2FVw1L9X5LHh3Z8M%2BWS6ALZVeqlk9XUfbPSJC%2F06deTzTIbffYpyF7ku%2BxKgGargQjSAC4C6cUF%2FXAmem)
 
-## 样例列表
+## Spring Boot 2.0 新特性学习
+
+**简介与概览**
+
+- [Spring Boot 2.0 正式发布，升还是不升呢？](http://blog.didispace.com/spring-boot-2-release/)
+- [Spring Boot 2.0 新特性和发展方向](http://blog.didispace.com/Spring-Boot-2-0-%E6%96%B0%E7%89%B9%E6%80%A7%E5%92%8C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91/)
+- [Spring Boot 2.0 与 Java 9](http://blog.didispace.com/Spring-Boot-2.0%E4%B8%8EJava-9/)
+
+**新特性详解**
+
+- [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://localhost:4000/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+
+## Spring Boot 基础教程（基于1.3.x-1.5.x）
 
 #### 快速入门
 
@@ -27,6 +39,7 @@
 #### 工程配置
 
 - chapter2-1-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
+- chapter2-2-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
 
 #### Web开发
 
