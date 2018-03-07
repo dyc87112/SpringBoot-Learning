@@ -27,7 +27,8 @@
 
 **新特性详解**
 
-- [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://localhost:4000/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+- [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+- [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 
 ## Spring Boot 基础教程（基于1.3.x-1.5.x）
 
