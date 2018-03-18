@@ -40,7 +40,6 @@
 #### 工程配置
 
 - chapter2-1-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
-- chapter2-2-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
 
 #### Web开发
 
@@ -63,6 +62,7 @@
 - chapter3-2-8：[MyBatis注解配置详解](http://blog.didispace.com/mybatisinfo/)
 - chapter3-2-9：[使用Flyway来管理数据库版本](http://blog.didispace.com/spring-boot-flyway-db-version/)
 - chapter3-2-10：[使用LDAP来统一管理用户信息](http://blog.didispace.com/spring-boot-ldap-user/)
+- chapter3-2-11：[Spring Boot中增强对MongoDB的配置（连接池等）](http://blog.didispace.com/springbootmongodb-plus/)
 
 #### 事务管理
 
