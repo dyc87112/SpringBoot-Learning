@@ -40,6 +40,8 @@
 #### 工程配置
 
 - chapter2-1-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
+- chapter2-1-2：[2.0 新特性（一）：配置绑定全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+- chapter2-2-1：[2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 
 #### Web开发
 
