@@ -74,6 +74,8 @@
 #### 其他内容
 - chapter4-1-1：[使用@Scheduled创建定时任务](http://blog.didispace.com/springbootscheduled/)
 - chapter4-1-2：[使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
+- chapter4-1-3：[使用@Async实现异步调用：自定义线程池](http://blog.didispace.com/springbootasync-2/)
+- chapter4-1-4：[使用@Async实现异步调用：资源优雅关闭](http://blog.didispace.com/springbootasync-3/)
 
 #### 日志管理
 
