@@ -7,12 +7,30 @@
 - GitHub：https://github.com/dyc87112/SpringBoot-Learning
 - Gitee：https://gitee.com/didispace/SpringBoot-Learning
 - Spring For All社区：http://spring4all.com/
-- Spring Boot系列博文：http://blog.didispace.com/categories/Spring-Boot/
-- Spring Cloud系列博文：http://blog.didispace.com/categories/Spring-Cloud/
+- Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
+- Spring Cloud基础教程：http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
 
 **声明：本人已放弃"Spring Cloud中国社区"，该社区的任何行为均与本人无关。[Spring For All社区](http://spring4all.com/)是新组建的关于Spring的纯技术交流社区（涵盖Spring Boot、Spring Cloud等内容），集诸多开源爱好者和技术大牛贡献内容和交流问题。我们不夸大、不装逼、做最纯粹的技术分享！！！**
 
-## 样例列表
+**优惠云服务推荐**
+
+- [腾讯云：3年时长最低265元/年](https://cloud.tencent.com/redirect.php?redirect=1005&cps_key=f6a8af1297bfac40b9d10ffa1270029a)
+- [阿里云：ECS云服务器2折起](https://s.click.taobao.com/t?e=m%3D2%26s%3Dzj4kbQ5lKukcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAq9GNeKfy2AD4SaRmc4YmqYCxNLxWxqxDPY8Eqzf%2BUWbOTauL6DcROffvu81lbXO1DDVuRn8ddiDsEVVC24eqozO54LQ%2FVw1L9X5LHh3Z8M%2BWS6ALZVeqlk9XUfbPSJC%2F06deTzTIbffYpyF7ku%2BxKgGargQjSAC4C6cUF%2FXAmem)
+
+## Spring Boot 2.0 新特性学习
+
+**简介与概览**
+
+- [Spring Boot 2.0 正式发布，升还是不升呢？](http://blog.didispace.com/spring-boot-2-release/)
+- [Spring Boot 2.0 新特性和发展方向](http://blog.didispace.com/Spring-Boot-2-0-%E6%96%B0%E7%89%B9%E6%80%A7%E5%92%8C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91/)
+- [Spring Boot 2.0 与 Java 9](http://blog.didispace.com/Spring-Boot-2.0%E4%B8%8EJava-9/)
+
+**新特性详解**
+
+- [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+- [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
+
+## Spring Boot 基础教程（基于1.3.x-1.5.x）
 
 #### 快速入门
 
@@ -22,6 +40,8 @@
 #### 工程配置
 
 - chapter2-1-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
+- chapter2-1-2：[2.0 新特性（一）：配置绑定全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+- chapter2-2-1：[2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 
 #### Web开发
 
@@ -44,6 +64,7 @@
 - chapter3-2-8：[MyBatis注解配置详解](http://blog.didispace.com/mybatisinfo/)
 - chapter3-2-9：[使用Flyway来管理数据库版本](http://blog.didispace.com/spring-boot-flyway-db-version/)
 - chapter3-2-10：[使用LDAP来统一管理用户信息](http://blog.didispace.com/spring-boot-ldap-user/)
+- chapter3-2-11：[Spring Boot中增强对MongoDB的配置（连接池等）](http://blog.didispace.com/springbootmongodb-plus/)
 
 #### 事务管理
 
@@ -51,8 +72,12 @@
 - chapter3-3-2：[分布式事务（未完成）]
 
 #### 其他内容
+
 - chapter4-1-1：[使用@Scheduled创建定时任务](http://blog.didispace.com/springbootscheduled/)
 - chapter4-1-2：[使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
+- chapter4-1-3：[使用@Async实现异步调用：自定义线程池](http://blog.didispace.com/springbootasync-2/)
+- chapter4-1-4：[使用@Async实现异步调用：资源优雅关闭](http://blog.didispace.com/springbootasync-3/)
+- chapter4-1-5：[使用@Async实现异步调用：使用Future以及定义超时](http://blog.didispace.com/springbootasync-4/)
 
 #### 日志管理
 
