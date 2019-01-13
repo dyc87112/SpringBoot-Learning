@@ -1,6 +1,6 @@
 # Spring Boot基础教程
 
-> 号外：最近整理了一下以前编写的一系列Spring Boot内容，整了个《Spring Boot基础教程》的PDF，<font color="red">关注我的公众号：程序猿DD，回复：001</font>，快来领取吧～！更多内容持续整理中，帮助大家更好的学习Spring相关的系列内容！
+> 号外：最近整理了一下以前编写的一系列Spring Boot内容，整了个《Spring Boot基础教程》的PDF，<span color="red">关注我的公众号：程序猿DD，回复：001</span>，快来领取吧～！更多内容持续整理中，帮助大家更好的学习Spring相关的系列内容！
 
 本项目内容为Spring Boot教程程序样例。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
