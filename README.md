@@ -1,5 +1,7 @@
 # Spring Boot基础教程
 
+> 号外：最近整理了一下以前编写的一系列Spring Boot内容，整了个《Spring Boot基础教程》的PDF，**关注我的公众号：程序猿DD，回复：001**，快来领取吧～！还有更多内容持续整理中，帮助大家更好的学习Spring相关的系列内容！
+
 本项目内容为Spring Boot教程程序样例。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
 - 我的博客：http://blog.didispace.com
@@ -14,8 +16,8 @@
 
 **优惠云服务推荐**
 
-- [腾讯云：3年时长最低265元/年](https://cloud.tencent.com/redirect.php?redirect=1005&cps_key=f6a8af1297bfac40b9d10ffa1270029a)
-- [阿里云：ECS云服务器2折起](https://s.click.taobao.com/t?e=m%3D2%26s%3Dzj4kbQ5lKukcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAq9GNeKfy2AD4SaRmc4YmqYCxNLxWxqxDPY8Eqzf%2BUWbOTauL6DcROffvu81lbXO1DDVuRn8ddiDsEVVC24eqozO54LQ%2FVw1L9X5LHh3Z8M%2BWS6ALZVeqlk9XUfbPSJC%2F06deTzTIbffYpyF7ku%2BxKgGargQjSAC4C6cUF%2FXAmem)
+- [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
+- [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
 
 ## Spring Boot 2.0 新特性学习
 
@@ -51,6 +53,8 @@
 - chapter3-1-4：[使用Velocity模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
 - chapter3-1-5：[使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
 - chapter3-1-6：[统一异常处理](http://blog.didispace.com/springbootexception/)
+- chapter3-1-7：[使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
+- chapter3-1-8：[扩展XML请求和响应的支持](http://blog.didispace.com/spring-boot-xml-httpmessageconverter)
 
 #### 数据访问
 
@@ -72,10 +76,12 @@
 - chapter3-3-2：[分布式事务（未完成）]
 
 #### 其他内容
+
 - chapter4-1-1：[使用@Scheduled创建定时任务](http://blog.didispace.com/springbootscheduled/)
 - chapter4-1-2：[使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
 - chapter4-1-3：[使用@Async实现异步调用：自定义线程池](http://blog.didispace.com/springbootasync-2/)
 - chapter4-1-4：[使用@Async实现异步调用：资源优雅关闭](http://blog.didispace.com/springbootasync-3/)
+- chapter4-1-5：[使用@Async实现异步调用：使用Future以及定义超时](http://blog.didispace.com/springbootasync-4/)
 
 #### 日志管理
 
