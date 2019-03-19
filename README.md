@@ -29,7 +29,7 @@
       </tbody>
 </table>
 
-> 如果您也想赞助支持我的话，可以通过邮件联系：`didi@didispace.com`
+> 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
 
 <br>
 
