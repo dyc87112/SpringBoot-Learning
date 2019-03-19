@@ -29,7 +29,13 @@
 - [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
 - [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
 
-## 目录（基于1.3.x-1.5.x）
+## 目录
+
+本教程版本基于Spring Boot 1.3.x - 1.5.x，部分内容可能会有出入。如果您发现问题，首先看版本是否一致。如果还有问题，可以提Issue指出。
+
+在阅读下面的教程内容之前，建议先阅读可见：[《Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系》](http://blog.didispace.com/spring-cloud-alibaba-version/)
+
+**提示：我们在学习Spring Boot、Spring Cloud的时候，一定要知道它们的版本关系，以避免不必要的困恼。**
 
 #### 快速入门
 
