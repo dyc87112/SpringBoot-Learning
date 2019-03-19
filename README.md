@@ -33,7 +33,7 @@
 
 本教程版本基于Spring Boot 1.3.x - 1.5.x，部分内容可能会有出入。如果您发现问题，首先看版本是否一致。如果还有问题，可以提Issue指出。
 
-在阅读下面的教程内容之前，建议先阅读可见：[《Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系》](http://blog.didispace.com/spring-cloud-alibaba-version/)
+在进行下面的教程学习之前，建议先阅读：[《Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系》](http://blog.didispace.com/spring-cloud-alibaba-version/)
 
 **提示：我们在学习Spring Boot、Spring Cloud的时候，一定要知道它们的版本关系，以避免不必要的困恼。**
 
