@@ -1,9 +1,8 @@
 # Spring Boot基础教程
 
 > 号外：最近整理了以前编写的系列内容为PDF，**关注我的公众号：程序猿DD**来领取免费学习资料
-
-本项目内容为Spring Boot教程程序样例。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
-
+> 本项目内容为[Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
+> 如您觉得该项目不错，欢迎点击右上方的**Star**按钮，给予支持！！！
 
 <h2 align="center">特别赞助商</h2>
 <table>
@@ -24,14 +23,6 @@
 
 > 如果您也想赞助支持我的话，可以通过邮件联系：`didi@didispace.com`
 
-
-- 我的博客：http://blog.didispace.com
-- **我的小密圈（深度交流与问答）：https://t.xiaomiquan.com/zfEiY3v**
-- GitHub：https://github.com/dyc87112/SpringBoot-Learning
-- Gitee：https://gitee.com/didispace/SpringBoot-Learning
-- Spring For All社区：http://spring4all.com/
-- Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
-- Spring Cloud基础教程：http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
 
 **优惠云服务推荐**
 
@@ -153,5 +144,10 @@
 
 ## 其他内容
 
-- 我的《Spring Cloud基础教程》：https://github.com/dyc87112/SpringCloud-Learning
-
+- 我的博客：http://blog.didispace.com
+- 知识星球：https://t.xiaomiquan.com/zfEiY3v
+- GitHub：https://github.com/dyc87112/SpringBoot-Learning
+- Gitee：https://gitee.com/didispace/SpringBoot-Learning
+- Spring For All社区：http://www.spring4all.com/
+- Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
+- Spring Cloud基础教程：http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
