@@ -1,4 +1,4 @@
-# Spring Boot基础教程（2.x版）
+# Spring Boot基础教程（2.x版本）
 
 号外：最近整理了以前编写的系列内容为PDF，**关注公众号：“程序猿DD”**，领取免费学习资料。<br>
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。<br>
@@ -29,9 +29,14 @@
 - [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
 - [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
 
-## 教程目录（2.1.x版）
+## 教程目录（2.x版本）
 
-在进行下面的教程学习之前，建议先阅读：[《Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系》](http://blog.didispace.com/spring-cloud-alibaba-version/)
+### 简介与概览
+
+- [Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
+- [Spring Boot 2.0 正式发布，升还是不升呢？](http://blog.didispace.com/spring-boot-2-release/)
+- [Spring Boot 2.0 新特性和发展方向](http://blog.didispace.com/Spring-Boot-2-0-%E6%96%B0%E7%89%B9%E6%80%A7%E5%92%8C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91/)
+- [Spring Boot 2.0 与 Java 9](http://blog.didispace.com/Spring-Boot-2.0%E4%B8%8EJava-9/)
 
 **提示：我们在学习Spring Boot、Spring Cloud的时候，一定要知道它们的版本关系，以避免不必要的困恼。**
 
@@ -41,15 +46,7 @@
 ### TODO
 
 
-## Spring Boot 2.0 新特性
-
-**简介与概览**
-
-- [Spring Boot 2.0 正式发布，升还是不升呢？](http://blog.didispace.com/spring-boot-2-release/)
-- [Spring Boot 2.0 新特性和发展方向](http://blog.didispace.com/Spring-Boot-2-0-%E6%96%B0%E7%89%B9%E6%80%A7%E5%92%8C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91/)
-- [Spring Boot 2.0 与 Java 9](http://blog.didispace.com/Spring-Boot-2.0%E4%B8%8EJava-9/)
-
-**新特性详解**
+### Spring Boot 2.x 新特性
 
 - [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
 - [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
