@@ -24,12 +24,7 @@
             <a href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o" target="_blank">
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-2-300x100.jpg?raw=true">
             </a>
-          </td>
-		  <td align="center" valign="middle">
-            <a href="https://cloud.tencent.com/redirect.php?redirect=1036&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-3-520x120.jpg?raw=true">
-            </a>
-          </td>          
+          </td>     
         </tr>
       </tbody>
 </table>
@@ -37,8 +32,6 @@
 > 如果您也想赞助支持我的话，可以通过邮件联系：`didi@didispace.com`
 
 <br>
-
-**优惠云服务推荐**
 
 - [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
 - [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
