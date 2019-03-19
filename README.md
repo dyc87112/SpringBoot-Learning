@@ -1,10 +1,9 @@
 # Spring Boot基础教程（2.x版本）
 
-号外：最近整理了以前编写的系列内容为PDF，**关注公众号：“程序猿DD”**，领取免费学习资料。<br>
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。<br>
 如您觉得该项目不错，欢迎点击右上方的**Star**按钮，给予支持！！！
 
-<br>
+> 号外：最近整理了以前编写的系列内容为PDF<br>**关注公众号：“程序猿DD”**，领取免费学习资料。
 
 ## 特别赞助商
 
@@ -16,6 +15,11 @@
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-1-500X166.jpg?raw=true">
             </a>
           </td>
+          <td align="center" valign="middle">
+            <a href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o" target="_blank">
+              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-2-300x100.jpg?raw=true">
+            </a>
+          </td>     
         </tr>
       </tbody>
 </table>
@@ -23,8 +27,6 @@
 > 如果您也想赞助支持我的话，可以通过邮件联系：`didi@didispace.com`
 
 <br>
-
-**优惠云服务推荐**
 
 - [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
 - [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
