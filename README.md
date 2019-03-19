@@ -6,7 +6,8 @@
 
 <br>
 
-<h2 align="center">特别赞助商</h2>
+## 特别赞助商
+
 <table>
       <tbody>
         <tr>
