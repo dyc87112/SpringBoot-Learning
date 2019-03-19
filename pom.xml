@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.didispace</groupId>
-    <artifactId>SpringCloud-Learning</artifactId>
+    <artifactId>SpringBoot-Learning</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <description>全网Star最多的Spring Boot基础教程</description>
 
     <modules>
-        <module>Chapter3-1-8</module>
 
     </modules>
 
