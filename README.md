@@ -1,8 +1,10 @@
 # Spring Boot基础教程
 
-号外：最近整理了以前编写的系列内容为PDF，**关注我的公众号：程序猿DD**来领取免费学习资料。
-本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
+号外：最近整理了以前编写的系列内容为PDF，**关注我的公众号：程序猿DD**来领取免费学习资料。<br>
+本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。<br>
 如您觉得该项目不错，欢迎点击右上方的**Star**按钮，给予支持！！！
+
+<br>
 
 <h2 align="center">特别赞助商</h2>
 <table>
@@ -19,6 +21,7 @@
 
 > 如果您也想赞助支持我的话，可以通过邮件联系：`didi@didispace.com`
 
+<br>
 
 **优惠云服务推荐**
 
