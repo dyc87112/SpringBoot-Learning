@@ -1,8 +1,8 @@
 # Spring Boot基础教程
 
-> 号外：最近整理了以前编写的系列内容为PDF，**关注我的公众号：程序猿DD**来领取免费学习资料<br>
-> 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例<br>
-> 如您觉得该项目不错，欢迎点击右上方的**Star**按钮，给予支持！！！
+号外：最近整理了以前编写的系列内容为PDF，**关注我的公众号：程序猿DD**来领取免费学习资料。
+本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
+如您觉得该项目不错，欢迎点击右上方的**Star**按钮，给予支持！！！
 
 <h2 align="center">特别赞助商</h2>
 <table>
@@ -130,15 +130,7 @@
 - chapter9-2-1：[Spring Boot中使用Dubbo进行服务治理](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-1)
 - chapter9-2-2：[Spring Boot与Dubbo中管理服务依赖](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-2)
 
-## 我的公众号
-
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
-
-## 推荐我的书
-
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
-
-## 其他内容
+## 推荐内容
 
 - 我的博客：http://blog.didispace.com
 - 知识星球：https://t.xiaomiquan.com/zfEiY3v
@@ -147,3 +139,11 @@
 - Spring For All社区：http://www.spring4all.com/
 - Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
 - Spring Cloud基础教程：http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
+
+## 我的公众号
+
+![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
+
+## 我出版的书
+
+![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
