@@ -1,7 +1,7 @@
 # Spring Boot基础教程
 
-> 号外：最近整理了以前编写的系列内容为PDF，**关注我的公众号：程序猿DD**来领取免费学习资料
-> 本项目内容为[Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
+> 号外：最近整理了以前编写的系列内容为PDF，**关注我的公众号：程序猿DD**来领取免费学习资料<br>
+> 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例<br>
 > 如您觉得该项目不错，欢迎点击右上方的**Star**按钮，给予支持！！！
 
 <h2 align="center">特别赞助商</h2>
@@ -12,10 +12,6 @@
             <a href="https://e.coding.net/?utm_source=zhaiyongchao&utm_medium=banner&utm_campaign=march2019" target="_blank">
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-1-500X166.jpg?raw=true">
             </a>
-          </td>
-          <td align="center" valign="middle">
-          </td>
-            <td align="center" valign="middle">
           </td>
         </tr>
       </tbody>
