@@ -1,4 +1,4 @@
-# Spring Boot 基础教程
+# Spring Boot基础教程（1.x版本）
 
 号外：最近整理了以前编写的系列内容为PDF，**关注公众号：“程序猿DD”**，领取免费学习资料。<br>
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。<br>
@@ -29,18 +29,19 @@
 - [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
 - [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
 
-## 目录
+## 教程目录（1.x版本）
 
 本教程版本基于Spring Boot 1.3.x - 1.5.x，部分内容可能会有出入。如果您发现问题，首先看版本是否一致。如果还有问题，可以提Issue指出。
 
-在进行下面的教程学习之前，建议先阅读：[《Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系》](http://blog.didispace.com/spring-cloud-alibaba-version/)
-
-**提示：我们在学习Spring Boot、Spring Cloud的时候，一定要知道它们的版本关系，以避免不必要的困恼。**
+如果您要学习Spring Boot 2.x版本，可以切换到2.x分支学习，本教程正在连载2.x版本的最新教程，如果您觉得内容不错，Star关注我吧！
 
 #### 快速入门
 
+- [Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
 - chapter1：[基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
 - [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
+
+> 提示：我们在学习Spring Boot、Spring Cloud的时候，一定要知道它们的版本关系，以避免不必要的困恼。
 
 #### 工程配置
 
