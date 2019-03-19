@@ -20,6 +20,11 @@
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-1-500X166.jpg?raw=true">
             </a>
           </td>
+          <td align="center" valign="middle">
+            <a href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o" target="_blank">
+              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-2.jpg?raw=true">
+            </a>
+          </td>
         </tr>
       </tbody>
 </table>
