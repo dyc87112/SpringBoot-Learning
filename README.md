@@ -1,6 +1,7 @@
 # Spring Boot基础教程（1.x版本）
 
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。如您觉得该项目不错，欢迎点击右上方的**Star**按钮，给予支持！！！<br>
+如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个我觉得目前内容与价格最良心的视频课程：["玩转Spring全家桶"](https://time.geekbang.org/course/intro/156?code=d1se%2F7ugeBEyuU%2FIYp1ynYzzGDAKYLFWk96zyObvTyU%3D&utm_term=zeusEN8Q0&utm_source=git&utm_medium=chengxuyuandd&utm_campaign=156-onsell&utm_content=ddboke)
 
 > **关注公众号：“程序猿DD”**，领取我整理的免费学习资料。<br>
 
@@ -33,8 +34,6 @@
 本教程版本基于Spring Boot 1.3.x - 1.5.x，部分内容可能会有出入。如果您发现问题，首先看版本是否一致。如果还有问题，可以提Issue指出。
 
 如果您要学习Spring Boot 2.x版本，可以切换到2.x分支学习，本教程正在连载2.x版本的最新教程，如果您觉得内容不错，Star关注我吧！
-
-如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个我觉得目前内容与价格最良心的视频课程：["玩转Spring全家桶"](https://time.geekbang.org/course/intro/156?code=d1se%2F7ugeBEyuU%2FIYp1ynYzzGDAKYLFWk96zyObvTyU%3D&utm_term=zeusEN8Q0&utm_source=git&utm_medium=chengxuyuandd&utm_campaign=156-onsell&utm_content=ddboke)
 
 #### 快速入门
 
