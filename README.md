@@ -8,7 +8,8 @@
 - Spring Boot 1.x版本教程：[1.x分支](../../tree/1.x)
 - Spring Boot 2.x版本教程：[2.x分支](../../tree/2.x)
 
-> 号外：最近整理了以前编写的系列内容为PDF<br>**关注公众号：“程序猿DD”**，领取免费学习资料。
+> **关注公众号：“程序猿DD”**，领取我整理的免费学习资料。<br>
+> 如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个我觉得目前内容与价格最良心的视频课程：["玩转Spring全家桶"]()。
 
 ## 特别赞助商
 
@@ -31,8 +32,6 @@
 
 > 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
 
-<br>
-
 - [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
 - [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
 
@@ -42,13 +41,13 @@
 - 知识星球：https://t.xiaomiquan.com/zfEiY3v
 - GitHub：https://github.com/dyc87112/SpringBoot-Learning
 - Gitee：https://gitee.com/didispace/SpringBoot-Learning
-- Spring For All社区：http://www.spring4all.com/
+- Spring问答社区：http://www.spring4all.com/
 - Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
 - Spring Cloud基础教程：http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
 
 ## 我的公众号
 
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
+<img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:200px;" />
 
 ## 我出版的书
 
