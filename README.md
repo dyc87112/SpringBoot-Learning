@@ -8,8 +8,9 @@
 - Spring Boot 1.x版本教程：[1.x分支](../../tree/1.x)
 - Spring Boot 2.x版本教程：[2.x分支](../../tree/2.x)
 
+<small>如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个我觉得目前内容与价格最良心的视频课程：["玩转Spring全家桶"]()</small>
+
 > **关注公众号：“程序猿DD”**，领取我整理的免费学习资料。<br>
-> 如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个我觉得目前内容与价格最良心的视频课程：["玩转Spring全家桶"]()。
 
 ## 特别赞助商
 
@@ -47,7 +48,7 @@
 
 ## 我的公众号
 
-<img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:200px;" />
+<img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
 
 ## 我出版的书
 
