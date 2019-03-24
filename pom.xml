@@ -9,6 +9,7 @@
     <description>全网Star最多的Spring Boot基础教程</description>
 
     <modules>
+        <module>chapter1-1</module>
 
     </modules>
 
