@@ -39,6 +39,11 @@
 
 ## 教程目录（2.x版本）
 
+- [Spring Boot 2.x基础教程：版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
+- [Spring Boot 2.x基础教程：快速入门](http://blog.didispace.com/spring-boot-learning-21-1-1/)
+
+TODO Star关注支持以下，随时获得更新信息！
+
 ### 简介与概览
 
 - [Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)

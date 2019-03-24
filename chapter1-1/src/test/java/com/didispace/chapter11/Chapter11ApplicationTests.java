@@ -22,7 +22,7 @@ public class Chapter11ApplicationTests {
     private MockMvc mvc;
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp() {
         mvc = MockMvcBuilders.standaloneSetup(new HelloController()).build();
     }
 
