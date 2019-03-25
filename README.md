@@ -13,8 +13,8 @@
 
 ## 教程目录
 
-- Spring Boot 1.x版本教程：[1.x分支](../../tree/1.x)
-- Spring Boot 2.x版本教程：[2.x分支](../../tree/2.x)
+- [Spring Boot 1.x版本教程：1.x分支](../../tree/1.x)
+- [Spring Boot 2.x版本教程：2.x分支](../../tree/2.x)
 
 > **关注公众号：“程序猿DD”**，领取我整理的免费学习资料。<br>
 
