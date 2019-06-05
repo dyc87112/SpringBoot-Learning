@@ -47,9 +47,6 @@
 
 > 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
 
-- [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
-- [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
-
 ## 教程目录（1.x版本）
 
 本教程版本基于Spring Boot 1.3.x - 1.5.x，部分内容可能会有出入。如果您发现问题，首先看版本是否一致。如果还有问题，可以提Issue指出。
