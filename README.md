@@ -51,9 +51,6 @@
 
 > 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
 
-- [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
-- [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
-
 ## 推荐内容
 
 - [我的博客](http://blog.didispace.com)：分享平时学习和实践过的技术内容
