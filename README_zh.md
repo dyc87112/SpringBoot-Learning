@@ -41,29 +41,20 @@
 
 ## 教程目录（2.x版本）
 
+### 基础知识
+
 - [Spring Boot 2.x基础教程：版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
 - [Spring Boot 2.x基础教程：快速入门](http://blog.didispace.com/spring-boot-learning-21-1-1/)
 - [Spring Boot 2.x基础教程：工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
 - [Spring Boot 2.x基础教程：配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
 
-TODO Star关注支持以下，随时获得更新信息！
+连载中...Star关注支持以下，随时获得更新信息！
 
-### 简介与概览
+### 1.x到2.x
 
-- [Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
 - [Spring Boot 2.0 正式发布，升还是不升呢？](http://blog.didispace.com/spring-boot-2-release/)
 - [Spring Boot 2.0 新特性和发展方向](http://blog.didispace.com/Spring-Boot-2-0-%E6%96%B0%E7%89%B9%E6%80%A7%E5%92%8C%E5%8F%91%E5%B1%95%E6%96%B9%E5%90%91/)
 - [Spring Boot 2.0 与 Java 9](http://blog.didispace.com/Spring-Boot-2.0%E4%B8%8EJava-9/)
-
-**提示：我们在学习Spring Boot、Spring Cloud的时候，一定要知道它们的版本关系，以避免不必要的困恼。**
-
-### 快速入门
-
-连载中...Star关注支持以下，随时获得更新信息！
-
-
-### 2.0 新特性
-
 - [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
 - [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 
