@@ -67,7 +67,3 @@
 ## 我的公众号
 
 <img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
-
-## 我出版的书
-
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
