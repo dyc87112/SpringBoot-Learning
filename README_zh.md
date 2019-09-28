@@ -50,6 +50,10 @@
 
 连载中...Star关注支持以下，随时获得更新信息！
 
+### Web开发
+
+- [Spring Boot 2.x基础教程：构建RESTful API与单元测试](http://blog.didispace.com/spring-boot-learning-21-2-1/)
+
 ### 1.x到2.x
 
 - [Spring Boot 2.0 正式发布，升还是不升呢？](http://blog.didispace.com/spring-boot-2-release/)

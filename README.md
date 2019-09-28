@@ -55,6 +55,10 @@
 - [Spring Boot 2.x基础教程：工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
 - [Spring Boot 2.x基础教程：配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
 
+### Web开发
+
+- [Spring Boot 2.x基础教程：构建RESTful API与单元测试](http://blog.didispace.com/spring-boot-learning-21-2-1/)
+
 连载中...Star关注支持以下，随时获得更新信息！
 
 ### 1.x到2.x
