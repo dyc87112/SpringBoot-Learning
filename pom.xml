@@ -9,7 +9,13 @@
     <description>全网Star最多的Spring Boot基础教程</description>
 
     <modules>
+        <!--快速入门-->
         <module>chapter1-1</module>
+
+        <!--Web开发-->
+        <module>chapter2-1</module>
+
+
 
     </modules>
 
