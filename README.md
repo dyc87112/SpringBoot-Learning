@@ -58,6 +58,7 @@
 ### Web开发
 
 - [Spring Boot 2.x基础教程：构建RESTful API与单元测试](http://blog.didispace.com/spring-boot-learning-21-2-1/)
+- [Spring Boot 2.x基础教程：使用Swagger2构建强大的API文档](http://blog.didispace.com/spring-boot-learning-21-2-2/)
 
 连载中...Star关注支持以下，随时获得更新信息！
 
