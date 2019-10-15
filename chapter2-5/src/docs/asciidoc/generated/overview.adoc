@@ -1,0 +1,38 @@
+= spring-boot-starter-swagger
+
+
+[[_overview]]
+== Overview
+Starter for swagger 2.x
+
+
+=== Version information
+[%hardbreaks]
+__Version__ : 1.9.0.RELEASE
+
+
+=== Contact information
+[%hardbreaks]
+__Contact__ : didi
+__Contact Email__ : dyc87112@qq.com
+
+
+=== License information
+[%hardbreaks]
+__License__ : Apache License, Version 2.0
+__License URL__ : https://www.apache.org/licenses/LICENSE-2.0.html
+__Terms of service__ : https://github.com/dyc87112/spring-boot-starter-swagger
+
+
+=== URI scheme
+[%hardbreaks]
+__Host__ : localhost:8080
+__BasePath__ : /
+
+
+=== Tags
+
+* 用户管理 : User Controller
+
+
+
