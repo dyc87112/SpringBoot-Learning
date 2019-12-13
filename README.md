@@ -29,8 +29,8 @@
             </a>
           </td>
           <td align="center" valign="middle">
-            <a href="https://www.aliyun.com/1111/2019/group-buying-share?ptCode=1946814D2840EE4FEC0971C48B9B5785647C88CF896EF535&userCode=wxfqkr0o&share_source=copy_link" target="_blank">
-              <img width="300" src="http://blog.didispace.com/assets/adv/aliyun_360_120.jpg">
+            <a href="https://www.aliyun.com/minisite/goods?userCode=wxfqkr0o&share_source=copy_link" target="_blank">
+              <img width="300" src="https://tva1.sinaimg.cn/large/006tNbRwgy1g9utcfi2hxj308c02i755.jpg">
             </a>
           </td>  
           <td align="center" valign="middle">
