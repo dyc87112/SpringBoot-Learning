@@ -1,6 +1,6 @@
 # Spring Boot基础教程
 
-**【鼓励我一下】我正在参与CSDN博客之星的竞选，如果我的内容有帮助到你，欢迎点击[投票支持](http://m234140.nofollow.ax.mvote.cn/opage/3d0780af-ab38-8794-6259-5876f7e31e56.html)（可以投5次哦）**
+**【鼓励我一下】** 我正在参与<span color="red">CSDN博客之星</span>的竞选，如果我的内容有帮助到你，欢迎点击[投票支持](http://m234140.nofollow.ax.mvote.cn/opage/3d0780af-ab38-8794-6259-5876f7e31e56.html)（每天可以投5次哦）
 
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
 
