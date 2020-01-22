@@ -1,0 +1,10 @@
+
+h2. Security {anchor:securityscheme}
+
+h3. Authorization {anchor:authorization}
+_Type_ : apiKey\\ 
+_Name_ : TOKEN\\ 
+_In_ : HEADER
+
+
+

@@ -1,0 +1,14 @@
+
+h2. Definitions {anchor:definitions}
+
+h3. User {anchor:user}
+用户实体
+
+
+||Name||Description||Schema||
+|*age*\\ \\ _optional_||用户年龄||integer (int32)|
+|*id*\\ \\ _optional_||用户编号||integer (int64)|
+|*name*\\ \\ _optional_||用户姓名||string|
+
+
+

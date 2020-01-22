@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.didispace</groupId>
+    <artifactId>SpringBoot-Learning</artifactId>
+    <version>2.0-SNAPSHOT</version>
+    <description>全网Star最多的Spring Boot基础教程</description>
+
+    <modules>
+        <!--快速入门-->
+        <module>chapter1-1</module>
+
+        <!--Web开发-->
+        <module>chapter2-1</module>
+        <module>chapter2-2</module>
+        <module>chapter2-3</module>
+        <module>chapter2-4</module>
+        <module>chapter2-5</module>
+
+
+    </modules>
+
+
+</project>
