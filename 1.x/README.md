@@ -40,7 +40,7 @@
         <tr>
           <td align="center" valign="middle">
             <a href="https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-5.jpg?raw=true">
+              <img width="300" src="http://img.didispace.com/FlcCuj0c-JhViRzr1wrynE941T9b">
             </a>
           </td> 
         </tr>
