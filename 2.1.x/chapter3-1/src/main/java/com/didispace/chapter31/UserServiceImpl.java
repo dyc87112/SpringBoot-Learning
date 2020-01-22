@@ -19,8 +19,9 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public void create(String name, Integer age) {
-        jdbcTemplate.update("insert into USER(NAME, AGE) values(?, ?)", name, age);
+    public int create(String name, Integer age) {
+        int row = jdbcTemplate.update("insert into USER(NAME, AGE) values(?, ?)", name, age);
+        return row;
     }
 
     @Override
@@ -35,18 +36,21 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public void deleteByName(String name) {
-        jdbcTemplate.update("delete from USER where NAME = ?", name);
+    public int deleteByName(String name) {
+        int row = jdbcTemplate.update("delete from USER where NAME = ?", name);
+        return row;
     }
 
     @Override
-    public Integer getAllUsers() {
-        return jdbcTemplate.queryForObject("select count(1) from USER", Integer.class);
+    public int getAllUsers() {
+        int row = jdbcTemplate.queryForObject("select count(1) from USER", Integer.class);
+        return row;
     }
 
     @Override
-    public void deleteAllUsers() {
-        jdbcTemplate.update("delete from USER");
+    public int deleteAllUsers() {
+        int row = jdbcTemplate.update("delete from USER");
+        return row;
     }
 
 }
