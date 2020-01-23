@@ -14,6 +14,8 @@ import org.springframework.test.web.servlet.RequestBuilder;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.List;
+
 import static org.hamcrest.Matchers.equalTo;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
@@ -41,6 +43,10 @@ public class Chapter31ApplicationTests {
         userSerivce.create("Didispace", 30);
         userSerivce.create("Oscar", 21);
         userSerivce.create("Linda", 17);
+
+        // 查询名为Oscar的用户，判断年龄是否匹配
+        List<User> userList = userSerivce.getByName("Oscar");
+        Assert.assertEquals(21, userList.get(0).getAge().intValue());
 
         // 查数据库，应该有5个用户
         Assert.assertEquals(5, userSerivce.getAllUsers());

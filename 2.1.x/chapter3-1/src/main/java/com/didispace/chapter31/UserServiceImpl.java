@@ -20,8 +20,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public int create(String name, Integer age) {
-        int row = jdbcTemplate.update("insert into USER(NAME, AGE) values(?, ?)", name, age);
-        return row;
+        return jdbcTemplate.update("insert into USER(NAME, AGE) values(?, ?)", name, age);
     }
 
     @Override
@@ -37,20 +36,17 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public int deleteByName(String name) {
-        int row = jdbcTemplate.update("delete from USER where NAME = ?", name);
-        return row;
+        return jdbcTemplate.update("delete from USER where NAME = ?", name);
     }
 
     @Override
     public int getAllUsers() {
-        int row = jdbcTemplate.queryForObject("select count(1) from USER", Integer.class);
-        return row;
+        return jdbcTemplate.queryForObject("select count(1) from USER", Integer.class);
     }
 
     @Override
     public int deleteAllUsers() {
-        int row = jdbcTemplate.update("delete from USER");
-        return row;
+        return jdbcTemplate.update("delete from USER");
     }
 
 }
