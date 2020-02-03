@@ -65,6 +65,11 @@
 - [Spring Boot 2.x基础教程：Swagger接口分类与各元素排序问题详解](http://blog.didispace.com/spring-boot-learning-21-2-4/)
 - [Spring Boot 2.x基础教程：Swagger静态文档的生成](http://blog.didispace.com/spring-boot-learning-21-2-5/)
 
+### 数据访问
+
+- [Spring Boot 2.x基础教程：使用JdbcTemplate访问MySQL数据库](http://blog.didispace.com/spring-boot-learning-21-3-1/)
+
+
 连载中...Star关注支持以下，随时获得更新信息！
 
 ### 1.x到2.x
