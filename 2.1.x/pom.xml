@@ -21,6 +21,7 @@
 
         <!--数据访问-->
         <module>chapter3-1</module>
+        <module>chapter3-2</module>
 
     </modules>
 
