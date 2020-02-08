@@ -64,15 +64,16 @@
 - [Spring Boot 2.x基础教程：JSR-303实现请求参数校验](http://blog.didispace.com/spring-boot-learning-21-2-3/)
 - [Spring Boot 2.x基础教程：Swagger接口分类与各元素排序问题详解](http://blog.didispace.com/spring-boot-learning-21-2-4/)
 - [Spring Boot 2.x基础教程：Swagger静态文档的生成](http://blog.didispace.com/spring-boot-learning-21-2-5/)
+- [Spring Boot 2.x基础教程：找回启动日志中的请求路径列表](http://blog.didispace.com/spring-boot-learning-21-2-6/)
 
 ### 数据访问
 
 - [Spring Boot 2.x基础教程：使用JdbcTemplate访问MySQL数据库](http://blog.didispace.com/spring-boot-learning-21-3-1/)
 - [Spring Boot 2.x基础教程：默认数据源Hikari的配置详解](http://blog.didispace.com/spring-boot-learning-21-3-2/)
+- [Spring Boot 2.x基础教程：使用国产数据库连接池Druid](http://blog.didispace.com/spring-boot-learning-21-3-3/)
 
 连载中...Star关注支持以下，随时获得更新信息！
 
-- [Spring Boot 2.x基础教程：国产数据库连接池Druid使用详解]
 - [Spring Boot 2.x基础教程：使用Spring Data JPA]
 - [Spring Boot 2.x基础教程：使用MyBatis]
 - [Spring Boot 2.x基础教程：多数据源配置]

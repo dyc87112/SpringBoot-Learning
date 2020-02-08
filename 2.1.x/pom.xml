@@ -18,10 +18,12 @@
         <module>chapter2-3</module>
         <module>chapter2-4</module>
         <module>chapter2-5</module>
+        <module>chapter2-6</module>
 
         <!--数据访问-->
         <module>chapter3-1</module>
         <module>chapter3-2</module>
+        <module>chapter3-3</module>
 
     </modules>
 
