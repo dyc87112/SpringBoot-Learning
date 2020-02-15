@@ -71,10 +71,11 @@
 - [Spring Boot 2.x基础教程：使用JdbcTemplate访问MySQL数据库](http://blog.didispace.com/spring-boot-learning-21-3-1/)
 - [Spring Boot 2.x基础教程：默认数据源Hikari的配置详解](http://blog.didispace.com/spring-boot-learning-21-3-2/)
 - [Spring Boot 2.x基础教程：使用国产数据库连接池Druid](http://blog.didispace.com/spring-boot-learning-21-3-3/)
+- [Spring Boot 2.x基础教程：使用Spring Data JPA访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-4/)
 
 连载中...Star关注支持以下，随时获得更新信息！
 
-- [Spring Boot 2.x基础教程：使用Spring Data JPA]
+
 - [Spring Boot 2.x基础教程：使用MyBatis]
 - [Spring Boot 2.x基础教程：多数据源配置]
 - [Spring Boot 2.x基础教程：数据库管理Flyway]
