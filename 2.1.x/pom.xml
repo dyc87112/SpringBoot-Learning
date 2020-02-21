@@ -27,7 +27,8 @@
         <module>chapter3-4</module>
 
         <!-- Web开发 -->
-        <module>chapter4-1</module> <!-- Spring Boot中使用 ECharts -->
+        <module>chapter4-1</module> <!-- 使用 Thymeleaf开发Web页面 -->
+        <module>chapter4-2</module> <!-- 使用 ECharts 绘制折线图 -->
 
     </modules>
 
