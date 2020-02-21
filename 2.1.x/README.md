@@ -50,6 +50,8 @@
 
 ## 教程目录（2.x版本）
 
+连载中...Star关注支持一下，随时获得更新信息！
+
 ### 基础知识
 
 - [Spring Boot 2.x基础教程：版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
@@ -68,13 +70,12 @@
 
 ### 数据访问
 
+**关系型数据库**
+
 - [Spring Boot 2.x基础教程：使用JdbcTemplate访问MySQL数据库](http://blog.didispace.com/spring-boot-learning-21-3-1/)
 - [Spring Boot 2.x基础教程：默认数据源Hikari的配置详解](http://blog.didispace.com/spring-boot-learning-21-3-2/)
 - [Spring Boot 2.x基础教程：使用国产数据库连接池Druid](http://blog.didispace.com/spring-boot-learning-21-3-3/)
 - [Spring Boot 2.x基础教程：使用Spring Data JPA访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-4/)
-
-连载中...Star关注支持以下，随时获得更新信息！
-
 
 - [Spring Boot 2.x基础教程：使用MyBatis]
 - [Spring Boot 2.x基础教程：多数据源配置]
@@ -87,7 +88,9 @@
 - [Spring Boot 2.x基础教程：使用ElasticSearch]
 - [Spring Boot 2.x基础教程：使用LDAP]
 
-连载中...Star关注支持以下，随时获得更新信息！
+### Web开发
+
+- [Spring Boot 2.x基础教程：使用 Thymeleaf开发Web页面](http://blog.didispace.com/spring-boot-learning-21-4-1/)
 
 ### 1.x到2.x
 
