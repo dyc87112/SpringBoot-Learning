@@ -12,7 +12,7 @@
         <!--快速入门-->
         <module>chapter1-1</module>
 
-        <!--Web开发-->
+        <!--API开发-->
         <module>chapter2-1</module>
         <module>chapter2-2</module>
         <module>chapter2-3</module>
@@ -25,6 +25,9 @@
         <module>chapter3-2</module>
         <module>chapter3-3</module>
         <module>chapter3-4</module>
+
+        <!-- Web开发 -->
+        <module>chapter4-1</module> <!-- Spring Boot中使用 ECharts -->
 
     </modules>
 
