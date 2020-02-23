@@ -89,6 +89,7 @@
 ### Web开发
 
 - [Spring Boot 2.x基础教程：使用 Thymeleaf开发Web页面](http://blog.didispace.com/spring-boot-learning-21-4-1/)
+- [Spring Boot 2.x基础教程：使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
 
 ### 1.x到2.x
 
