@@ -25,12 +25,12 @@
         <module>chapter3-2</module>
         <module>chapter3-3</module>
         <module>chapter3-4</module>
+        <module>chapter3-5</module>  <!-- 使用 MyBatis -->
 
         <!-- Web开发 -->
-        <module>chapter4-1</module> <!-- 使用 Thymeleaf开发Web页面 -->
-        <module>chapter4-2</module> <!-- 使用 ECharts 绘制折线图 -->
+        <module>chapter4-1</module>  <!-- 使用 Thymeleaf开发Web页面 -->
+        <module>chapter4-2</module>  <!-- 使用 ECharts 绘制折线图 -->
 
     </modules>
-
 
 </project>
