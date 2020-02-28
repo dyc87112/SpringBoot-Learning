@@ -40,6 +40,11 @@
               <img width="300" src="http://img.didispace.com/FlcCuj0c-JhViRzr1wrynE941T9b">
             </a>
           </td> 
+          <td align="center" valign="middle">
+             <a href="https://openwrite.cn/?from=didi-springcloud" target="_blank">
+               <img width="300" src="http://img.didispace.com/Foaph7vaVxs-bPRrFrEEKAYadPgg">
+             </a>
+          </td> 
         </tr>
       </tbody>
 </table>
@@ -75,6 +80,7 @@
 - [Spring Boot 2.x基础教程：使用国产数据库连接池Druid](http://blog.didispace.com/spring-boot-learning-21-3-3/)
 - [Spring Boot 2.x基础教程：使用Spring Data JPA访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-4/)
 - [Spring Boot 2.x基础教程：使用MyBatis访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-5/)
+- [Spring Boot 2.x基础教程：使用MyBatis的XML配置方式](http://blog.didispace.com/spring-boot-learning-21-3-6/)
 
 - [Spring Boot 2.x基础教程：多数据源配置]
 - [Spring Boot 2.x基础教程：数据库管理Flyway]
