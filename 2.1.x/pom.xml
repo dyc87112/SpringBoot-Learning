@@ -26,6 +26,7 @@
         <module>chapter3-3</module>
         <module>chapter3-4</module>
         <module>chapter3-5</module>  <!-- 使用 MyBatis -->
+        <module>chapter3-6</module>  <!-- 使用 MyBatis（xml配置方式）-->
 
         <!-- Web开发 -->
         <module>chapter4-1</module>  <!-- 使用 Thymeleaf开发Web页面 -->
