@@ -16,33 +16,31 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class Chapter37ApplicationTests {
 
     @Autowired
-    @Qualifier("primaryJdbcTemplate")
-    protected JdbcTemplate jdbcTemplate1;
+    protected JdbcTemplate primaryJdbcTemplate;
 
     @Autowired
-    @Qualifier("secondaryJdbcTemplate")
-    protected JdbcTemplate jdbcTemplate2;
+    protected JdbcTemplate secondaryJdbcTemplate;
 
     @Before
     public void setUp() {
-        jdbcTemplate1.update("DELETE  FROM  USER ");
-        jdbcTemplate2.update("DELETE  FROM  USER ");
+        primaryJdbcTemplate.update("DELETE  FROM  USER ");
+        secondaryJdbcTemplate.update("DELETE  FROM  USER ");
     }
 
     @Test
     public void test() throws Exception {
         // 往第一个数据源中插入 2 条数据
-        jdbcTemplate1.update("insert into user(name,age) values(?, ?)", "aaa", 20);
-        jdbcTemplate1.update("insert into user(name,age) values(?, ?)", "bbb", 30);
+        primaryJdbcTemplate.update("insert into user(name,age) values(?, ?)", "aaa", 20);
+        primaryJdbcTemplate.update("insert into user(name,age) values(?, ?)", "bbb", 30);
 
         // 往第二个数据源中插入 1 条数据，若插入的是第一个数据源，则会主键冲突报错
-        jdbcTemplate2.update("insert into user(name,age) values(?, ?)", "ccc", 20);
+        secondaryJdbcTemplate.update("insert into user(name,age) values(?, ?)", "ccc", 20);
 
         // 查一下第一个数据源中是否有 2 条数据，验证插入是否成功
-        Assert.assertEquals("2", jdbcTemplate1.queryForObject("select count(1) from user", String.class));
+        Assert.assertEquals("2", primaryJdbcTemplate.queryForObject("select count(1) from user", String.class));
 
         // 查一下第一个数据源中是否有 1 条数据，验证插入是否成功
-        Assert.assertEquals("1", jdbcTemplate2.queryForObject("select count(1) from user", String.class));
+        Assert.assertEquals("1", secondaryJdbcTemplate.queryForObject("select count(1) from user", String.class));
     }
 
 }
