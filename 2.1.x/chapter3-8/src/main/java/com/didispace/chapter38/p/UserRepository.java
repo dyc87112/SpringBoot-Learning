@@ -1,4 +1,4 @@
-package com.didispace.chapter34;
+package com.didispace.chapter38.p;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

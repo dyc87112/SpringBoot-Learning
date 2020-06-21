@@ -1,21 +1,19 @@
-package com.didispace.chapter34;
+package com.didispace.chapter38;
 
+import com.didispace.chapter38.p.User;
+import com.didispace.chapter38.p.UserRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import javax.sql.DataSource;
-import java.util.List;
-
 @Slf4j
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Chapter34ApplicationTests {
+public class Chapter38ApplicationTests {
 
     @Autowired
     private UserRepository userRepository;
