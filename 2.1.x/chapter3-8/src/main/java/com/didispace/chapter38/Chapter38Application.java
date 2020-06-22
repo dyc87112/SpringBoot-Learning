@@ -12,14 +12,4 @@ public class Chapter38Application {
 		SpringApplication.run(Chapter38Application.class, args);
 	}
 
-	@RestController
-	static class TextController {
-
-		@GetMapping("/hello")
-		public String hello() {
-			return "hello world";
-		}
-
-	}
-
 }

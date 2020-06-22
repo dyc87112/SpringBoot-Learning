@@ -2,6 +2,8 @@ package com.didispace.chapter38;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.boot.autoconfigure.orm.jpa.HibernateProperties;
+import org.springframework.boot.autoconfigure.orm.jpa.HibernateSettings;
 import org.springframework.boot.autoconfigure.orm.jpa.JpaProperties;
 import org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder;
 import org.springframework.context.annotation.Bean;
@@ -28,6 +30,15 @@ public class SecondaryConfig {
     @Qualifier("secondaryDataSource")
     private DataSource secondaryDataSource;
 
+    @Autowired
+    private JpaProperties jpaProperties;
+    @Autowired
+    private HibernateProperties hibernateProperties;
+
+    private Map<String, Object> getVendorProperties() {
+        return hibernateProperties.determineHibernateProperties(jpaProperties.getProperties(), new HibernateSettings());
+    }
+
     @Bean(name = "entityManagerSecondary")
     public EntityManager entityManager(EntityManagerFactoryBuilder builder) {
         return entityManagerFactorySecondary(builder).getObject().createEntityManager();
@@ -39,6 +50,7 @@ public class SecondaryConfig {
                 .dataSource(secondaryDataSource)
                 .packages("com.didispace.chapter38.s") //设置实体类所在位置
                 .persistenceUnit("secondaryPersistenceUnit")
+                .properties(getVendorProperties())
                 .build();
     }
 
