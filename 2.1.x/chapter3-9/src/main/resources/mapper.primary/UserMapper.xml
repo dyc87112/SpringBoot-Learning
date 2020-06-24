@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.didispace.chapter39.p.mapper.UserMapperPrimary">
+    <select id="findByName" resultType="com.didispace.chapter39.p.entity.UserPrimary">
+        SELECT * FROM USER WHERE NAME = #{name}
+    </select>
+
+    <insert id="insert">
+        INSERT INTO USER(NAME, AGE) VALUES(#{name}, #{age})
+    </insert>
+
+</mapper>
