@@ -25,7 +25,6 @@ public class PrimaryConfig {
 
     @Bean
     public SqlSessionFactory sqlSessionFactoryPrimary() throws Exception {
-        SqlSessionFactory sessionFactory = null;
         SqlSessionFactoryBean bean = new SqlSessionFactoryBean();
         bean.setDataSource(primaryDataSource);
         return bean.getObject();

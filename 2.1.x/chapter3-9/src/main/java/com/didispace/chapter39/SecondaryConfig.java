@@ -25,7 +25,6 @@ public class SecondaryConfig {
 
     @Bean
     public SqlSessionFactory sqlSessionFactorySecondary() throws Exception {
-        SqlSessionFactory sessionFactory = null;
         SqlSessionFactoryBean bean = new SqlSessionFactoryBean();
         bean.setDataSource(secondaryDataSource);
         return bean.getObject();
