@@ -29,6 +29,7 @@
         <module>chapter3-6</module>  <!-- 使用 MyBatis（xml配置方式）-->
         <module>chapter3-7</module>  <!-- JdbcTemplate的多数据源配置 -->
         <module>chapter3-8</module>  <!-- Spring Data JPA的多数据源配置 -->
+        <module>chapter3-9</module>  <!-- MyBatis的多数据源配置 -->
 
         <!-- Web开发 -->
         <module>chapter4-1</module>  <!-- 使用 Thymeleaf开发Web页面 -->
