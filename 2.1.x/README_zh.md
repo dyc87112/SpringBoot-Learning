@@ -81,9 +81,10 @@
 - [Spring Boot 2.x基础教程：使用Spring Data JPA访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-4/)
 - [Spring Boot 2.x基础教程：使用MyBatis访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-5/)
 - [Spring Boot 2.x基础教程：使用MyBatis的XML配置方式](http://blog.didispace.com/spring-boot-learning-21-3-6/)
-
-- [Spring Boot 2.x基础教程：多数据源配置]
-- [Spring Boot 2.x基础教程：数据库管理Flyway]
+- [Spring Boot 2.x基础教程：JdbcTemplate的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-7/)
+- [Spring Boot 2.x基础教程：Spring Data JPA的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-8/)
+- [Spring Boot 2.x基础教程：MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
+- [Spring Boot 2.x基础教程：事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
 
 **其他数据存储**
 
