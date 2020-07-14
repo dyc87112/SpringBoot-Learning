@@ -31,20 +31,22 @@
         <module>chapter3-8</module>  <!-- Spring Data JPA的多数据源配置 -->
         <module>chapter3-9</module>  <!-- MyBatis的多数据源配置 -->
         <module>chapter3-10</module> <!-- 事务管理入门 -->
-        <!-- 3-11 分布式事务 -->
-        <!-- 3-12 使用Flyway管理数据库版本 -->
-        <!-- 3-13 使用Liquibase管理数据库版本 -->
+        <!-- 3-11 使用Flyway管理数据库版本 -->
+        <!-- 3-12 使用Liquibase管理数据库版本 -->
+        <!-- 3-13 分布式事务 -->
 
         <!-- Web开发 -->
         <module>chapter4-1</module>  <!-- 使用 Thymeleaf开发Web页面 -->
         <module>chapter4-2</module>  <!-- 使用 ECharts 绘制折线图 -->
 
-        <!-- 其他数据库的使用 -->
-        <!-- 5-1 使用Redis -->
-        <!-- 5-2 使用MongoDB -->
-        <!-- 5-3 使用Elasticsearch -->
-        <!-- 5-4 使用轻量级树状存储 LDAP -->
-        <!-- 5-5 使用时序数据库 InfluxDB -->
+        <!-- 各种缓存 -->
+        <module>chapter5-1</module>  <!-- 使用进程内缓存 -->
+
+        <!-- 其他常用的数据储存 -->
+        <!-- 6-1 使用MongoDB -->
+        <!-- 6-2 使用Elasticsearch -->
+        <!-- 6-3 使用轻量级树状存储 LDAP -->
+        <!-- 6-4 使用时序数据库 InfluxDB -->
 
 
     </modules>
