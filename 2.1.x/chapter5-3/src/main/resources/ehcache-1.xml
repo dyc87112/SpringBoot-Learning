@@ -1,10 +1,11 @@
 <ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:noNamespaceSchemaLocation="ehcache.xsd">
 
+    <defaultCache maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="600" timeToLiveSeconds="600" overflowToDisk="true" />
+
     <cache name="users"
            maxEntriesLocalHeap="200"
            timeToLiveSeconds="600">
-        <!-- 监听RMI同步缓存对象配置 注册相应的的缓存监听类，用于处理缓存事件，如put,remove,update,和expire -->
         <cacheEventListenerFactory
                 class="net.sf.ehcache.distribution.RMICacheReplicatorFactory"
                 properties="replicateAsynchronously=true,
@@ -12,14 +13,17 @@
             replicateUpdates=true,
             replicateUpdatesViaCopy=false,
             replicateRemovals=true "/>
+
+        <bootstrapCacheLoaderFactory class="net.sf.ehcache.distribution.RMIBootstrapCacheLoaderFactory"
+                                     properties="bootstrapAsynchronously=true" />
     </cache>
 
     <cacheManagerPeerProviderFactory
             class="net.sf.ehcache.distribution.RMICacheManagerPeerProviderFactory"
-            properties="hostName=10.10.0.100,
+            properties="hostName=10.10.0.101,
                         port=40001,
                         socketTimeoutMillis=2000,
                         peerDiscovery=manual,
-                        rmiUrls=//10.10.0.101:40001/users" />
+                        rmiUrls=//10.10.0.102:40001/users" />
 
 </ehcache>
