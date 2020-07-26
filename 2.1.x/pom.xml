@@ -45,7 +45,7 @@
         <module>chapter5-1</module>  <!-- 使用进程内缓存 -->
         <module>chapter5-2</module>  <!-- 使用进程内缓存 EhCache -->
         <module>chapter5-3</module>  <!-- 使用EhCache缓存集群 -->
-        <!-- 5-4 使用集中式缓存Redis -->
+        <module>chapter5-4</module>  <!-- 使用集中式缓存Redis -->
         <!-- 5-5 Redis + EhCache的二连组合拳 -->
 
         <!-- 其他常用的数据储存 -->
