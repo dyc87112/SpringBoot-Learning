@@ -96,6 +96,7 @@
 - [Spring Boot 2.x基础教程：进程内缓存的使用与Cache注解详解](http://blog.didispace.com/spring-boot-learning-21-5-1/)
 - [Spring Boot 2.x基础教程：EhCache缓存的使用](http://blog.didispace.com/spring-boot-learning-21-5-2/)
 - [Spring Boot 2.x基础教程：使用EhCache缓存集群](http://blog.didispace.com/spring-boot-learning-21-5-3/)
+- [Spring Boot 2.x基础教程：使用集中式缓存Redis](http://blog.didispace.com/spring-boot-learning-21-5-4/))
 
 ### Web开发
 

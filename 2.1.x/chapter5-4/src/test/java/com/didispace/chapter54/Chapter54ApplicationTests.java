@@ -21,6 +21,8 @@ public class Chapter54ApplicationTests {
 
     @Test
     public void test() throws Exception {
+        System.out.println("CacheManager type : " + cacheManager.getClass());
+
         // 创建1条记录
         userRepository.save(new User("AAA", 10));
 
