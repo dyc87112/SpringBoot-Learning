@@ -30,7 +30,7 @@
           </td>  
           <td align="center" valign="middle">
              <a href="https://openwrite.cn/?from=didi-springcloud" target="_blank">
-               <img width="300" src="http://img.didispace.com/Foaph7vaVxs-bPRrFrEEKAYadPgg">
+               <img width="300" src="http://img.didispace.com/Fq6H6vSRJugF3cLxFNc29D9WVwFA">
              </a>
           </td>          
         </tr>
