@@ -29,7 +29,7 @@
              </a>
           </td>
           <td align="center" valign="middle">
-            <a href="https://coding.net/pricing?utm_source=cangkudidi&utm_medium=banner&utm_campaign=newprice" target="_blank">
+            <a href="https://coding.net/?utm_source=chengxuyuan1&utm_medium=cpc&utm_campaign=newprice" target="_blank">
               <img width="300" src="http://img.didispace.com/FnldWfhU6pcUrNeg2zAcsc9lQodq">
             </a>
           </td>  
