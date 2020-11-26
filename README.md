@@ -9,7 +9,6 @@
 2. 点个`Star`并`Follow`我
 3. 把该仓库分享给更多的朋友
 
-如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个我觉得目前内容与价格最良心的视频课程：["玩转Spring全家桶"](https://time.geekbang.org/course/intro/100023501?code=d1se%2F7ugeBEyuU%2FIYp1ynfSZa6ulbGhhDK%2Fkpn3-lFc%3D)
 
 ## 教程目录
 
