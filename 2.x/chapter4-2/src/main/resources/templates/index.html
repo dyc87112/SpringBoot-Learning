@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8" />
+    <title>Spring Boot中使用ECharts</title>
+    <script src="https://cdn.bootcss.com/echarts/4.6.0/echarts.min.js"></script>
+</head>
+<body>
+<div id="main" style="width: 1000px;height:400px;"></div>
+</body>
+
+<script type="text/javascript">
+    let myChart = echarts.init(document.getElementById('main'));
+    let option = {
+        title: {
+            text: 'Spring Boot中使用ECharts'
+        },
+        tooltip: {},
+        xAxis: {
+            data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+        },
+        yAxis: {},
+        series: [{
+            data: [820, 932, 901, 934, 1290, 1330, 1320],
+            type: 'line'
+        }]
+    };
+    myChart.setOption(option);
+</script>
+</html>

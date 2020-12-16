@@ -1,0 +1,29 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="ehcache.xsd">
+
+    <defaultCache maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="600" timeToLiveSeconds="600" overflowToDisk="true" />
+
+    <cache name="users"
+           maxEntriesLocalHeap="200"
+           timeToLiveSeconds="600">
+        <cacheEventListenerFactory
+                class="net.sf.ehcache.distribution.RMICacheReplicatorFactory"
+                properties="replicateAsynchronously=true,
+            replicatePuts=true,
+            replicateUpdates=true,
+            replicateUpdatesViaCopy=false,
+            replicateRemovals=true "/>
+
+        <bootstrapCacheLoaderFactory class="net.sf.ehcache.distribution.RMIBootstrapCacheLoaderFactory"
+                                     properties="bootstrapAsynchronously=true" />
+    </cache>
+
+    <cacheManagerPeerProviderFactory
+            class="net.sf.ehcache.distribution.RMICacheManagerPeerProviderFactory"
+            properties="hostName=10.10.0.102,
+                        port=40001,
+                        socketTimeoutMillis=2000,
+                        peerDiscovery=manual,
+                        rmiUrls=//10.10.0.101:40001/users" />
+
+</ehcache>
