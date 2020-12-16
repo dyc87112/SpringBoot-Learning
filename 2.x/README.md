@@ -122,5 +122,5 @@
 
 ## 我的公众号
 
-<img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
+<img src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/weixin.jpg?raw=true" style="width:150px;height:150px;" />
 
