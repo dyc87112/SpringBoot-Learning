@@ -1,6 +1,6 @@
 # Spring Boot基础教程（2.x版本）
 
-本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
+本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/spring-boot-learning-2x/)的程序样例。
 
 **专题目标**：打造全网内容最全，比收费教程更好的Spring Boot免费教程！
 
@@ -97,6 +97,8 @@
 - [Spring Boot 2.x基础教程：使用 Thymeleaf开发Web页面](http://blog.didispace.com/spring-boot-learning-21-4-1/)
 - [Spring Boot 2.x基础教程：使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
 
+## 版本资讯
+
 ### 1.x到2.x
 
 - [Spring Boot 2.0 正式发布，升还是不升呢？](http://blog.didispace.com/spring-boot-2-release/)
@@ -105,15 +107,14 @@
 - [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
 - [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 
-## 推荐内容
+### 2.x版本信息
 
-- [我的博客](http://blog.didispace.com)：分享平时学习和实践过的技术内容
-- [知识星球](https://t.xiaomiquan.com/zfEiY3v)：聊聊技术人的斜杠生活
-- [GitHub](https://github.com/dyc87112/SpringBoot-Learning)：Star支持一下呗
-- [Gitee](https://gitee.com/didispace/SpringBoot-Learning)：Star支持一下呗
-- [Spring问答社区](http://www.spring4all.com/)：如果您有什么问题，可以去这里发帖
-- [Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)：全网Star最多的免费Spring Boot基础教程
-- [Spring Cloud基础教程](http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)：全网最早最全的免费Spring Cloud基础教程
+- [Spring Boot 2.2 正式发布，大幅性能提升 + Java 13 支持](http://blog.didispace.com/spring-boot-2-2-release/)
+- [Spring Boot 2.3.0 发布](/spring-boot-2-3-0-release/) 
+- [Spring Boot 2.3.0 放弃 Maven 转投 Gradle](/spring-boot-gradle/)
+- [Spring Boot 2.3.2 发布，解决 Too many open files 导致的应用宕机问题](http://blog.didispace.com/spring-boot-2-3-2-release/)
+- [Spring Boot 2.4.0 正式发布！全新的配置处理机制，拥抱云原生！](http://blog.didispace.com/spring-boot-2-4-0-ga/)
+- [Spring Boot 2.4.1 发布，修正大量2.4全新配置机制的Bug](http://blog.didispace.com/spring-boot-2-4-1-release/)
 
 ## 我的公众号
 

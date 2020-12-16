@@ -1,6 +1,6 @@
 # Spring Boot基础教程（2.x版本）
 
-本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
+本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/spring-boot-learning-2x/)的程序样例。
 
 **专题目标**：打造全网内容最全，比收费教程更好的Spring Boot免费教程！
 
@@ -8,8 +8,6 @@
 1. 关注我的公众号”**程序猿DD**“
 2. 点个`Star`并`Follow`我
 3. 把该仓库分享给更多的朋友
-
-如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个我觉得目前内容与价格最良心的视频课程：["玩转Spring全家桶"](https://time.geekbang.org/course/intro/100023501?code=d1se%2F7ugeBEyuU%2FIYp1ynfSZa6ulbGhhDK%2Fkpn3-lFc%3D)
 
 > **关注公众号：“程序猿DD”**，领取我整理的免费学习资料。<br>
 
@@ -98,6 +96,8 @@
 - [Spring Boot 2.x基础教程：使用 Thymeleaf开发Web页面](http://blog.didispace.com/spring-boot-learning-21-4-1/)
 - [Spring Boot 2.x基础教程：使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
 
+## 版本资讯
+
 ### 1.x到2.x
 
 - [Spring Boot 2.0 正式发布，升还是不升呢？](http://blog.didispace.com/spring-boot-2-release/)
@@ -105,6 +105,15 @@
 - [Spring Boot 2.0 与 Java 9](http://blog.didispace.com/Spring-Boot-2.0%E4%B8%8EJava-9/)
 - [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
 - [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
+
+### 2.x版本信息
+
+- [Spring Boot 2.2 正式发布，大幅性能提升 + Java 13 支持](http://blog.didispace.com/spring-boot-2-2-release/)
+- [Spring Boot 2.3.0 发布](/spring-boot-2-3-0-release/) 
+- [Spring Boot 2.3.0 放弃 Maven 转投 Gradle](/spring-boot-gradle/)
+- [Spring Boot 2.3.2 发布，解决 Too many open files 导致的应用宕机问题](http://blog.didispace.com/spring-boot-2-3-2-release/)
+- [Spring Boot 2.4.0 正式发布！全新的配置处理机制，拥抱云原生！](http://blog.didispace.com/spring-boot-2-4-0-ga/)
+- [Spring Boot 2.4.1 发布，修正大量2.4全新配置机制的Bug](http://blog.didispace.com/spring-boot-2-4-1-release/)
 
 ## 推荐内容
 
@@ -120,6 +129,6 @@
 
 <img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
 
-## 我出版的书
+## 推荐我的书
 
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
+![](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
