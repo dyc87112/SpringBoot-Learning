@@ -59,7 +59,11 @@
 - [Spring Boot 2.x基础教程：版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
 - [Spring Boot 2.x基础教程：快速入门](http://blog.didispace.com/spring-boot-learning-21-1-1/)
 - [Spring Boot 2.x基础教程：工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
+
+### 配置文件
+
 - [Spring Boot 2.x基础教程：配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
+- [Spring Boot 2.x基础教程：多环境配置（2.4版本开始的变化）](http://blog.didispace.com/spring-boot-learning-24-1-4/)
 
 ### Web开发
 

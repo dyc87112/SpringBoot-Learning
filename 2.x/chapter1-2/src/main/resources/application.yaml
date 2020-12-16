@@ -1,0 +1,31 @@
+# 默认激活dev配置
+spring:
+  profiles:
+    active: "dev"
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: "dev"
+
+name: dev.didispace.com
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: "test"
+
+name: test.didispace.com
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+name: prod.didispace.com
