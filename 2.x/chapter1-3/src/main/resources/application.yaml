@@ -1,0 +1,61 @@
+# 2.4之前的配置
+#spring:
+#  profiles:
+#    active: "dev"
+#
+#---
+#spring.profiles: "dev"
+#spring.profiles.include: "dev-db,dev-mq"
+#
+#---
+#spring.profiles: "dev-db"
+#
+#db: dev-db.didispace.com
+#
+#---
+#spring.profiles: "dev-mq"
+#
+#mq: dev-mq.didispace.com
+#
+#---
+
+#2.4之后的配置
+# 默认激活dev配置
+spring:
+  profiles:
+    active: "dev"
+    group:
+      "dev": "dev-db,dev-mq"
+      "prod": "prod-db,prod-mq"
+
+---
+spring:
+  config:
+    activate:
+      on-profile: "dev-db"
+
+db: dev-db.didispace.com
+
+---
+spring:
+  config:
+    activate:
+      on-profile: "dev-mq"
+
+mq: dev-mq.didispace.com
+
+---
+spring:
+  config:
+    activate:
+      on-profile: "prod-db"
+
+db: prod-db.didispace.com
+
+---
+spring:
+  config:
+    activate:
+      on-profile: "prod-mq"
+
+mq: prod-mq.didispace.com
