@@ -44,7 +44,8 @@
         <!-- Web开发 -->
         <module>chapter4-1</module>  <!-- 使用 Thymeleaf开发Web页面 -->
         <module>chapter4-2</module>  <!-- 使用 ECharts 绘制折线图 -->
-        <module>chapter4-3</module>  <!-- 文件的上传与下载 -->
+        <module>chapter4-3</module>  <!-- 实现文件上传 -->
+        <module>chapter4-4</module>  <!-- 实现多文件上传 -->
 
         <!-- 各种缓存 -->
         <module>chapter5-1</module>  <!-- 使用进程内缓存 -->
