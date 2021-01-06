@@ -11,8 +11,6 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
 
-import java.io.IOException;
-
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
@@ -31,18 +29,6 @@ public class FileTest {
 
     @Test
     public void uploadFile() throws Exception {
-        MockMultipartFile file = mockFile();
-
-        final MvcResult result = mvc.perform(
-                MockMvcRequestBuilders
-                        .multipart("/upload")
-                        .file(file))
-                .andDo(print())
-                .andExpect(status().isCreated())
-                .andReturn();
-    }
-
-    private MockMultipartFile mockFile() throws IOException {
         MockMultipartFile file = new MockMultipartFile(
                 "file",
                 "hello.txt",
@@ -50,7 +36,13 @@ public class FileTest {
                 "Hello, World!".getBytes()
         );
 
-        return file;
+        final MvcResult result = mvc.perform(
+                MockMvcRequestBuilders
+                        .multipart("/upload")
+                        .file(file))
+                .andDo(print())
+                .andExpect(status().isOk())
+                .andReturn();
     }
 
 }
