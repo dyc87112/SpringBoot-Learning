@@ -36,7 +36,7 @@ public class UploadController {
 
             File dest = new File(filePath);
             Files.copy(file.getInputStream(), dest.toPath());
-            return "Upload file success : " + dest.getAbsolutePath();
+            message.append("Upload file success : " + dest.getAbsolutePath()).append("<br>");
         }
         return message.toString();
     }
