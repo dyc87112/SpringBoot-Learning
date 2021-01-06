@@ -11,6 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
 
 @Controller
 @Slf4j
@@ -26,21 +27,16 @@ public class UploadController {
 
     @PostMapping("/upload")
     @ResponseBody
-    public String create(@RequestPart MultipartFile[] files) {
+    public String create(@RequestPart MultipartFile[] files) throws IOException {
         StringBuffer message = new StringBuffer();
 
-        for(MultipartFile file : files) {
+        for (MultipartFile file : files) {
             String fileName = file.getOriginalFilename();
             String filePath = path + fileName;
 
             File dest = new File(filePath);
-            try {
-                file.transferTo(dest);
-                message.append("Upload file success : " + dest.getAbsolutePath()).append("<br>");
-            } catch (IOException e) {
-                log.error(e.getMessage(), e);
-                message.append("Upload file failed : " + e.getMessage()).append("<br>");
-            }
+            Files.copy(file.getInputStream(), dest.toPath());
+            return "Upload file success : " + dest.getAbsolutePath();
         }
         return message.toString();
     }
