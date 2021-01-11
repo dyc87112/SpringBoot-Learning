@@ -90,6 +90,7 @@
 - [Spring Boot 2.x基础教程：Spring Data JPA的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-8/)
 - [Spring Boot 2.x基础教程：MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
 - [Spring Boot 2.x基础教程：事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
+- [Spring Boot 2.x基础教程：使用Flyway管理数据库版本](http://blog.didispace.com/spring-boot-learning-24-3-11/)
 
 **加速利器：各种缓存的使用**
 

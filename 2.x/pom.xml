@@ -37,15 +37,16 @@
         <module>chapter3-8</module>  <!-- Spring Data JPA的多数据源配置 -->
         <module>chapter3-9</module>  <!-- MyBatis的多数据源配置 -->
         <module>chapter3-10</module> <!-- 事务管理入门 -->
-        <!-- 3-11 使用Flyway管理数据库版本 -->
+        <module>chapter3-11</module> <!-- 使用Flyway管理数据库版本 -->
         <!-- 3-12 使用Liquibase管理数据库版本 -->
         <!-- 3-13 分布式事务 -->
 
         <!-- Web开发 -->
         <module>chapter4-1</module>  <!-- 使用 Thymeleaf开发Web页面 -->
         <module>chapter4-2</module>  <!-- 使用 ECharts 绘制折线图 -->
-        <module>chapter4-3</module>  <!-- 实现文件上传 -->
-        <module>chapter4-4</module>  <!-- 实现多文件上传 -->
+        <module>chapter4-3</module>  <!-- 文件上传 -->
+        <module>chapter4-4</module>  <!-- 多文件上传 -->
+<!--        <module>chapter4-5</module>  &lt;!&ndash; TODO 大文件上传 &ndash;&gt;-->
 
         <!-- 各种缓存 -->
         <module>chapter5-1</module>  <!-- 使用进程内缓存 -->
