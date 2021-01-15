@@ -41,7 +41,7 @@
             </a>
           </td>  
           <td align="center" valign="middle">
-            <a href="https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console" target="_blank">
+            <a href="https://curl.qcloud.com/M5wV9Ylj" target="_blank">
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/005.jpg?raw=true">
             </a>
           </td> 
