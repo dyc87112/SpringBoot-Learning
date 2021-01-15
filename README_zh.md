@@ -4,6 +4,8 @@
 
 **专题目标**：打造全网内容最全，比收费教程更好的Spring Boot免费教程！
 
+**加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://mp.weixin.qq.com/s/K0BHKqZohfK4jllzLyQA1g)
+
 **如何支持**：
 1. 关注我的公众号”**程序猿DD**“
 2. 点个`Star`并`Follow`我
@@ -44,7 +46,7 @@
             </a>
           </td>  
           <td align="center" valign="middle">
-            <a href="https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console" target="_blank">
+            <a href="https://curl.qcloud.com/M5wV9Ylj" target="_blank">
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/005.jpg?raw=true">
             </a>
           </td> 
