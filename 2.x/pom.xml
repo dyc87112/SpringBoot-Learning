@@ -15,6 +15,7 @@
         <!--配置文件-->
         <module>chapter1-2</module>  <!-- 2.4版本前后的多环境配置与配置激活 -->
         <module>chapter1-3</module>  <!-- 2.4版本前后的配置分组配置 -->
+        <module>chapter1-4</module>  <!-- 配置元数据的应用 -->
 
         <!--API开发-->
         <module>chapter2-1</module>  <!-- 构建RESTful API与单元测试 -->
