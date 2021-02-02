@@ -93,7 +93,8 @@
 - [Spring Boot 2.x基础教程：MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
 - [Spring Boot 2.x基础教程：事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
 - [Spring Boot 2.x基础教程：使用Flyway管理数据库版本](http://blog.didispace.com/spring-boot-learning-24-3-11/)
- 
+- [Spring Boot 2.x基础教程：使用JTA实现分布式事务](http://blog.didispace.com/spring-boot-learning-24-3-12/)
+
 **加速利器：各种缓存的使用**
 
 - [Spring Boot 2.x基础教程：进程内缓存的使用与Cache注解详解](http://blog.didispace.com/spring-boot-learning-21-5-1/)
