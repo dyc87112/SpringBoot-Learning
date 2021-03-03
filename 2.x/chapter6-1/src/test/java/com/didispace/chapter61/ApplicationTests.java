@@ -3,9 +3,12 @@ package com.didispace.chapter61;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
 
+@RunWith(SpringRunner.class)
 @SpringBootTest(classes = Chapter61Application.class)
 public class ApplicationTests {
 
@@ -19,8 +22,6 @@ public class ApplicationTests {
 
     @Test
     public void test() throws Exception {
-        userRepository.deleteAll();
-
         // 创建三个User，并验证User总数
         userRepository.save(new User(1L, "didi", 30));
         userRepository.save(new User(2L, "mama", 40));
