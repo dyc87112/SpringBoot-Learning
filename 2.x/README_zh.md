@@ -70,7 +70,7 @@
 - [Spring Boot 2.x基础教程：2.4版本前后的分组配置变化](http://blog.didispace.com/spring-boot-learning-24-1-5/)
 - [Spring Boot 2.x基础教程：配置元数据的应用 ](http://blog.didispace.com/spring-boot-learning-24-1-6/)
 
-### Web开发
+### API开发
 
 - [Spring Boot 2.x基础教程：构建RESTful API与单元测试](http://blog.didispace.com/spring-boot-learning-21-2-1/)
 - [Spring Boot 2.x基础教程：使用Swagger2构建强大的API文档](http://blog.didispace.com/spring-boot-learning-21-2-2/)
@@ -78,6 +78,7 @@
 - [Spring Boot 2.x基础教程：Swagger接口分类与各元素排序问题详解](http://blog.didispace.com/spring-boot-learning-21-2-4/)
 - [Spring Boot 2.x基础教程：Swagger静态文档的生成](http://blog.didispace.com/spring-boot-learning-21-2-5/)
 - [Spring Boot 2.x基础教程：找回启动日志中的请求路径列表](http://blog.didispace.com/spring-boot-learning-21-2-6/)
+- [Spring Boot 2.x基础教程：使用SpringFox 3生成Swagger文档](http://blog.didispace.com/spring-boot-learning-21-2-7/)
 
 ### 数据访问
 
@@ -103,12 +104,18 @@
 - [Spring Boot 2.x基础教程：使用EhCache缓存集群](http://blog.didispace.com/spring-boot-learning-21-5-3/)
 - [Spring Boot 2.x基础教程：使用集中式缓存Redis](http://blog.didispace.com/spring-boot-learning-21-5-4/)
 
+**其他常见存储的使用**
+
+- [Spring Boot 2.x基础教程：使用MongoDB](http://blog.didispace.com/spring-boot-learning-24-6-1/)
+
 ### Web开发
 
 - [Spring Boot 2.x基础教程：使用 Thymeleaf开发Web页面](http://blog.didispace.com/spring-boot-learning-21-4-1/)
 - [Spring Boot 2.x基础教程：使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
 - [Spring Boot 2.x基础教程：实现文件上传](http://blog.didispace.com/spring-boot-learning-21-4-3/)
 - [Spring Boot 2.x基础教程：实现多文件上传](http://blog.didispace.com/spring-boot-learning-21-4-4/)
+- [Spring Boot 2.x基础教程：文件上传的单元测试怎么写](https://blog.didispace.com/spring-boot-learning-21-4-5/)
+
 
 ## 版本资讯
 
