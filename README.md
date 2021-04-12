@@ -1,4 +1,5 @@
 # Spring Boot基础教程
+[![Maintainability](https://cloud.quality-gate.com/dashboard/api/badge?projectName=dyc87112_SpringBoot-Learning&branchName=master)](https://cloud.quality-gate.com/dashboard/branches/226035#overview)
 
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
 
