@@ -40,6 +40,7 @@
         <module>chapter3-10</module> <!-- 事务管理入门 -->
         <module>chapter3-11</module> <!-- 使用Flyway管理数据库版本 -->
         <module>chapter3-12</module> <!-- 使用JTA -->
+        <module>chapter3-13</module>  <!--2.5版本之后的数据脚本初始化 -->
 
         <!-- 3-12 使用Liquibase管理数据库版本 -->
         <!-- 3-13 分布式事务 -->
