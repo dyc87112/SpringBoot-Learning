@@ -96,6 +96,8 @@
 - [Spring Boot 2.x基础教程：使用Flyway管理数据库版本](http://blog.didispace.com/spring-boot-learning-24-3-11/)
 - [Spring Boot 2.x基础教程：使用JTA实现分布式事务](http://blog.didispace.com/spring-boot-learning-24-3-12/)
 
+- [Spring Boot 2.x基础教程：2.5版本后数据脚本初始化的变动](http://blog.didispace.com/spring-boot-learning-25-3-13/)
+
 **加速利器：各种缓存的使用**
 
 - [Spring Boot 2.x基础教程：进程内缓存的使用与Cache注解详解](http://blog.didispace.com/spring-boot-learning-21-5-1/)
@@ -134,6 +136,7 @@
 - [Spring Boot 2.3.2 发布，解决 Too many open files 导致的应用宕机问题](http://blog.didispace.com/spring-boot-2-3-2-release/)
 - [Spring Boot 2.4.0 正式发布！全新的配置处理机制，拥抱云原生！](http://blog.didispace.com/spring-boot-2-4-0-ga/)
 - [Spring Boot 2.4.1 发布，修正大量2.4全新配置机制的Bug](http://blog.didispace.com/spring-boot-2-4-1-release/)
+- [Spring Boot 2.5.0 发布：支持Java16、Gradle 7、Datasource初始化调整](https://blog.didispace.com/spring-boot-2-5-0-release/)
 
 ## 我的公众号
 
