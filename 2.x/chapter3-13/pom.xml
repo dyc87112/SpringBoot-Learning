@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>com.didispace</groupId>
-	<artifactId>chapter3-1(2.5+)</artifactId>
+	<artifactId>chapter3-13</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
