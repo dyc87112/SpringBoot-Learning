@@ -4,7 +4,7 @@
 
 **专题目标**：打造全网内容最全，比收费教程更好的Spring Boot免费教程！
 
-**加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://mp.weixin.qq.com/s/K0BHKqZohfK4jllzLyQA1g)
+**加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://blog.didispace.com/join-group-spring/index.html)
 
 **如何支持**：
 1. 关注我的公众号”**程序猿DD**“
@@ -79,6 +79,7 @@
 - [Spring Boot 2.x基础教程：Swagger静态文档的生成](http://blog.didispace.com/spring-boot-learning-21-2-5/)
 - [Spring Boot 2.x基础教程：找回启动日志中的请求路径列表](http://blog.didispace.com/spring-boot-learning-21-2-6/)
 - [Spring Boot 2.x基础教程：使用SpringFox 3生成Swagger文档](http://blog.didispace.com/spring-boot-learning-21-2-7/)
+- [Spring Boot 2.x基础教程：如何扩展XML格式的请求和响应](http://blog.didispace.com/spring-boot-learning-21-2-8/)
 
 ### 数据访问
 
@@ -119,6 +120,13 @@
 - [Spring Boot 2.x基础教程：实现文件上传](http://blog.didispace.com/spring-boot-learning-21-4-3/)
 - [Spring Boot 2.x基础教程：实现多文件上传](http://blog.didispace.com/spring-boot-learning-21-4-4/)
 - [Spring Boot 2.x基础教程：文件上传的单元测试怎么写](https://blog.didispace.com/spring-boot-learning-21-4-5/)
+
+### 常见问题
+
+- [为什么加了@Transactional注解，事务没有回滚？](http://blog.didispace.com/transactional-not-rollback/)
+- [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
+- [使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
+- [Request header is too large 如何解决？](https://blog.didispace.com/request-header-is-too-large/)
 
 
 ## 版本资讯

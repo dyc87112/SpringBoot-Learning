@@ -25,7 +25,8 @@
         <module>chapter2-5</module>  <!-- Swagger静态文档的生成 -->
         <module>chapter2-6</module>  <!-- 找回启动日志中的请求路径列表 -->
         <module>chapter2-7</module>  <!-- 使用SpringFox3生成Swagger文档 -->
-        <!-- 2-8 使用Webflux编写API接口 -->
+        <module>chapter2-8</module>  <!-- 如何扩展XML格式的请求和响应 -->
+        <!-- 2-9 使用Webflux编写API接口 -->
 
         <!--数据访问（关系型数据库）-->
         <module>chapter3-1</module>  <!-- 使用JdbcTemplate访问MySQL数据库 -->
