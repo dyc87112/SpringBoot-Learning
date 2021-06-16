@@ -4,7 +4,7 @@
 
 **专题目标**：打造全网内容最全，比收费教程更好的Spring Boot免费教程！
 
-**加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://mp.weixin.qq.com/s/K0BHKqZohfK4jllzLyQA1g)
+**加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://blog.didispace.com/join-group-spring/index.html)
 
 **如何支持**：
 1. 关注我的公众号”**程序猿DD**“
