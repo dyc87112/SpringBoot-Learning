@@ -110,7 +110,7 @@
 **其他常见存储的使用**
 
 - [Spring Boot 2.x基础教程：使用MongoDB](http://blog.didispace.com/spring-boot-learning-24-6-1/)
-
+- [Spring Boot 2.x基础教程：使用LDAP来管理用户与组织数据](http://blog.didispace.com/spring-boot-learning-24-6-2/)
 
 
 ### Web开发
