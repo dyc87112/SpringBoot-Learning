@@ -1,6 +1,8 @@
 dn: dc=didispace,dc=com
 objectClass: top
 objectClass: domain
+objectclass: extensibleObject
+dc: didispace
 
 dn: ou=people,dc=didispace,dc=com
 objectclass: top
