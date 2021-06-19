@@ -105,10 +105,12 @@
 - [Spring Boot 2.x基础教程：EhCache缓存的使用](http://blog.didispace.com/spring-boot-learning-21-5-2/)
 - [Spring Boot 2.x基础教程：使用EhCache缓存集群](http://blog.didispace.com/spring-boot-learning-21-5-3/)
 - [Spring Boot 2.x基础教程：使用集中式缓存Redis](http://blog.didispace.com/spring-boot-learning-21-5-4/)
+- [Spring Boot 2.x基础教程：使用Redis的发布订阅功能](http://blog.didispace.com/spring-boot-learning-25-5-5/)
 
 **其他常见存储的使用**
 
 - [Spring Boot 2.x基础教程：使用MongoDB](http://blog.didispace.com/spring-boot-learning-24-6-1/)
+- [Spring Boot 2.x基础教程：使用LDAP来管理用户与组织数据](http://blog.didispace.com/spring-boot-learning-24-6-2/)
 
 ### Web开发
 
@@ -144,6 +146,7 @@
 - [Spring Boot 2.4.0 正式发布！全新的配置处理机制，拥抱云原生！](http://blog.didispace.com/spring-boot-2-4-0-ga/)
 - [Spring Boot 2.4.1 发布，修正大量2.4全新配置机制的Bug](http://blog.didispace.com/spring-boot-2-4-1-release/)
 - [Spring Boot 2.5.0 发布：支持Java16、Gradle 7、Datasource初始化调整](https://blog.didispace.com/spring-boot-2-5-0-release/)
+- [Spring Boot 2.5.1 发布](https://blog.didispace.com/spring-boot-2-5-1-release/)
 
 ## 我的公众号
 
