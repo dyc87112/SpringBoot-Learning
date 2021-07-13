@@ -26,7 +26,8 @@
         <module>chapter2-6</module>  <!-- 找回启动日志中的请求路径列表 -->
         <module>chapter2-7</module>  <!-- 使用SpringFox3生成Swagger文档 -->
         <module>chapter2-8</module>  <!-- 如何扩展XML格式的请求和响应 -->
-        <!-- 2-9 使用Webflux编写API接口 -->
+<!--        <module>chapter2-9</module>  &lt;!&ndash; 使用spring-graphql构建API &ndash;&gt;-->
+        <!-- 2-x 使用Webflux编写API接口 -->
 
         <!--数据访问（关系型数据库）-->
         <module>chapter3-1</module>  <!-- 使用JdbcTemplate访问MySQL数据库 -->
@@ -69,10 +70,10 @@
         <!-- 6-4 使用Elasticsearch -->
 
         <!-- 其他功能 -->
-        <!-- 7-1 简单定时任务 -->
+        <module>chapter7-1</module>  <!-- 7-1 使用@Scheduled实现定时任务 -->
         <!-- 7-2 简单异步任务 -->
-
+        <!-- 7-3  -->
+        <!-- 7-4  -->
 
     </modules>
-
 </project>
