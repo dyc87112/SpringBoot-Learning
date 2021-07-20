@@ -120,9 +120,10 @@
 - [Spring Boot 2.x基础教程：实现多文件上传](http://blog.didispace.com/spring-boot-learning-21-4-4/)
 - [Spring Boot 2.x基础教程：文件上传的单元测试怎么写](https://blog.didispace.com/spring-boot-learning-21-4-5/)
 
-### 其他功能
+### 任务管理
 
 - [Spring Boot 2.x基础教程：使用@Scheduled实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-1)
+- [Spring Boot 2.x基础教程：使用Elastic Job实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-2)
 
 ### 常见问题
 

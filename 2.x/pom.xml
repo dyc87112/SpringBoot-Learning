@@ -71,9 +71,10 @@
 
         <!-- 其他功能 -->
         <module>chapter7-1</module>  <!-- 7-1 使用@Scheduled实现定时任务 -->
-        <!-- 7-2 简单异步任务 -->
-        <!-- 7-3  -->
-        <!-- 7-4  -->
+        <module>chapter7-2</module>  <!-- 7-2 使用Elastic Job实现定时任务 -->
+        <!-- 7-3 使用Elastic Job的分片功能 -->
+        <!-- 7-4 简单异步任务 -->
+        <!-- 7-5  -->
 
     </modules>
 </project>

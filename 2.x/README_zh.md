@@ -121,9 +121,10 @@
 - [Spring Boot 2.x基础教程：实现多文件上传](http://blog.didispace.com/spring-boot-learning-21-4-4/)
 - [Spring Boot 2.x基础教程：文件上传的单元测试怎么写](https://blog.didispace.com/spring-boot-learning-21-4-5/)
 
-### 其他功能
+### 任务管理
 
 - [Spring Boot 2.x基础教程：使用@Scheduled实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-1)
+- [Spring Boot 2.x基础教程：使用Elastic Job实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-2)
 
 ### 常见问题
 
@@ -131,7 +132,6 @@
 - [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
 - [使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
 - [Request header is too large 如何解决？](https://blog.didispace.com/request-header-is-too-large/)
-
 
 ## 版本资讯
 
