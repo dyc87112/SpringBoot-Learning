@@ -125,6 +125,7 @@
 
 - [Spring Boot 2.x基础教程：使用@Scheduled实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-1)
 - [Spring Boot 2.x基础教程：使用Elastic Job实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-2)
+- [Spring Boot 2.x基础教程：使用Elastic Job的分片配置](https://blog.didispace.com/spring-boot-learning-2-7-3)
 
 ### 常见问题
 
