@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-13</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>2.5版本之后的数据脚本初始化</description>
 
 	<properties>
 		<java.version>1.8</java.version>
