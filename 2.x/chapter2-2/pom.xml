@@ -14,7 +14,7 @@
 	<artifactId>chapter2-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chapter2-2</name>
-	<description>Demo project for Spring Boot</description>
+	<description>使用Swagger2构建强大的API文档</description>
 
 	<properties>
 		<java.version>1.8</java.version>
