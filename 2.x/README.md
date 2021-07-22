@@ -12,46 +12,6 @@
 2. 点个`Star`并`Follow`我
 3. 把该仓库分享给更多的朋友
 
-## 特别赞助商
-
-<table>
-      <tbody>
-        <tr>
-          <td align="center" valign="middle">
-             <a href="https://start.aliyun.com/" target="_blank">
-               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/001.jpg?raw=true">
-             </a>
-          </td>
-          <td align="center" valign="middle">
-            <a href="http://gk.link/a/103EK" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/002.jpg?raw=true">
-            </a>
-          </td>  
-          <td align="center" valign="middle">
-             <a href="https://openwrite.cn/?from=didi-springcloud" target="_blank">
-               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/003.jpg?raw=true">
-             </a>
-          </td>          
-        </tr>
-        <tr>
-          <td align="center" valign="middle">
-            <a href="https://www.aliyun.com/minisite/goods?userCode=wxfqkr0o&share_source=copy_link" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/004.jpg?raw=true">
-            </a>
-          </td>  
-          <td align="center" valign="middle">
-            <a href="https://curl.qcloud.com/M5wV9Ylj" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/005.jpg?raw=true">
-            </a>
-          </td> 
-          <td align="center" valign="middle">
-          </td>
-        </tr>
-      </tbody>
-</table>
-
-> 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
-
 ## 教程目录（2.x版本）
 
 连载中...Star关注支持一下，随时获得更新信息！
@@ -159,3 +119,42 @@
 
 <img src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/weixin.jpg?raw=true" style="width:150px;height:150px;" />
 
+## 特别赞助商
+
+<table>
+      <tbody>
+        <tr>
+          <td align="center" valign="middle">
+             <a href="https://start.aliyun.com/" target="_blank">
+               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/001.jpg?raw=true">
+             </a>
+          </td>
+          <td align="center" valign="middle">
+            <a href="http://gk.link/a/103EK" target="_blank">
+              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/002.jpg?raw=true">
+            </a>
+          </td>  
+          <td align="center" valign="middle">
+             <a href="https://openwrite.cn/?from=didi-springcloud" target="_blank">
+               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/003.jpg?raw=true">
+             </a>
+          </td>          
+        </tr>
+        <tr>
+          <td align="center" valign="middle">
+            <a href="https://www.aliyun.com/minisite/goods?userCode=wxfqkr0o&share_source=copy_link" target="_blank">
+              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/004.jpg?raw=true">
+            </a>
+          </td>  
+          <td align="center" valign="middle">
+            <a href="https://curl.qcloud.com/M5wV9Ylj" target="_blank">
+              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/005.jpg?raw=true">
+            </a>
+          </td> 
+          <td align="center" valign="middle">
+          </td>
+        </tr>
+      </tbody>
+</table>
+
+> 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
