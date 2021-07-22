@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-6</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用MyBatis（xml配置方式）</description>
 
 	<properties>
 		<java.version>1.8</java.version>
