@@ -4,9 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.didispace</groupId>
-	<artifactId>Chapter2-8</artifactId>
+	<artifactId>chapter2-8</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
+	<description>如何扩展XML格式的请求和响应</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
