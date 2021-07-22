@@ -34,8 +34,8 @@
         <module>chapter3-2</module>  <!-- 默认数据源Hikari的配置详解 -->
         <module>chapter3-3</module>  <!-- 使用国产数据库连接池Druid -->
         <module>chapter3-4</module>  <!-- 使用Spring Data JPA访问MySQL -->
-        <module>chapter3-5</module>  <!-- 使用 MyBatis -->
-        <module>chapter3-6</module>  <!-- 使用 MyBatis（xml配置方式）-->
+        <module>chapter3-5</module>  <!-- 使用MyBatis访问MySQL -->
+        <module>chapter3-6</module>  <!-- 使用MyBatis（xml配置方式）-->
         <module>chapter3-7</module>  <!-- JdbcTemplate的多数据源配置 -->
         <module>chapter3-8</module>  <!-- Spring Data JPA的多数据源配置 -->
         <module>chapter3-9</module>  <!-- MyBatis的多数据源配置 -->
