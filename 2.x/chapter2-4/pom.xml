@@ -14,7 +14,7 @@
 	<artifactId>chapter2-4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chapter2-4</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Swagger接口分类与各元素排序问题详解</description>
 
 	<properties>
 		<java.version>1.8</java.version>
