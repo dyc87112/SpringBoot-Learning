@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-12</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用JTA实现多数据源的事务</description>
 
 	<properties>
 		<java.version>1.8</java.version>
