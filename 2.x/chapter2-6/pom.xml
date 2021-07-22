@@ -13,6 +13,7 @@
     <groupId>com.didispace</groupId>
     <artifactId>chapter2-6</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <description>找回启动日志中的请求路径列表</description>
 
     <properties>
         <java.version>1.8</java.version>
