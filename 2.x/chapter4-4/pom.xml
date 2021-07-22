@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter4-4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>多文件上传</description>
 
 	<properties>
 		<java.version>1.8</java.version>
