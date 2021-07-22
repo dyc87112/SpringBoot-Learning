@@ -13,7 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-7</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<description>使用JDBCTemplate的多数据源配置</description>
+	<description>JdbcTemplate的多数据源配置</description>
 
 	<properties>
 		<java.version>1.8</java.version>
