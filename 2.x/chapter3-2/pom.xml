@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>默认数据源Hikari的配置详解</description>
 
 	<properties>
 		<java.version>1.8</java.version>
