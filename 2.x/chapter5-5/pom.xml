@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter5-5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用Redis的发布订阅</description>
 
 	<properties>
 		<java.version>1.8</java.version>
