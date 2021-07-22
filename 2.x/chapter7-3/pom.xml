@@ -13,6 +13,7 @@
     <groupId>com.didispace</groupId>
     <artifactId>chapter7-3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <description>使用Elastic Job的分片配置</description>
 
     <properties>
         <java.version>1.8</java.version>
