@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter5-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用进程内缓存 EhCache</description>
 
 	<properties>
 		<java.version>1.8</java.version>
