@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter5-3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用EhCache缓存集群</description>
 
 	<properties>
 		<java.version>1.8</java.version>
