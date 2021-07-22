@@ -14,7 +14,7 @@
 	<artifactId>chapter2-3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chapter2-3</name>
-	<description>Demo project for Spring Boot</description>
+	<description>使用JSR-303实现请求参数校验</description>
 
 	<properties>
 		<java.version>1.8</java.version>
