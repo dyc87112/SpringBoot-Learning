@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter6-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用MongoDB</description>
 
 	<properties>
 		<java.version>1.8</java.version>
