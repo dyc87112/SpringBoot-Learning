@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用Spring Data JPA访问MySQL</description>
 
 	<properties>
 		<java.version>1.8</java.version>
