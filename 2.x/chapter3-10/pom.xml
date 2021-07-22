@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-10</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>事务管理入门</description>
 
 	<properties>
 		<java.version>1.8</java.version>
