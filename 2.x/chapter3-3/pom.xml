@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用国产数据库连接池Druid</description>
 
 	<properties>
 		<java.version>1.8</java.version>
