@@ -13,7 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-9</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<description>使用MyBatis的多数据源配置</description>
+	<description>MyBatis的多数据源配置</description>
 
 	<properties>
 		<java.version>1.8</java.version>
