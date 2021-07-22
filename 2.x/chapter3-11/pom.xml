@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter3-11</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用Flyway管理数据库版本</description>
 
 	<properties>
 		<java.version>1.8</java.version>
