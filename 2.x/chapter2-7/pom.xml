@@ -13,6 +13,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter2-7</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>使用SpringFox3生成Swagger文档</description>
 
 	<properties>
 		<java.version>1.8</java.version>
