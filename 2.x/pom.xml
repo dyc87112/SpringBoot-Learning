@@ -72,7 +72,7 @@
         <module>chapter7-1</module>  <!-- 7-1 使用@Scheduled实现定时任务 -->
         <module>chapter7-2</module>  <!-- 7-2 使用Elastic Job实现定时任务 -->
         <module>chapter7-3</module>  <!-- 7-3 使用Elastic Job的分片配置 -->
-        <module>chapter7-4</module>  <!-- 7-4 Elastic Job的错误处理策略 -->
+        <module>chapter7-4</module>  <!-- 7-4 使用Elastic Job的namespace防止任务名冲突 -->
         <!-- 7-5 简单异步任务 -->
 
     </modules>
