@@ -71,6 +71,8 @@
 
 - [Spring Boot 2.x基础教程：使用MongoDB](http://blog.didispace.com/spring-boot-learning-24-6-1/)
 - [Spring Boot 2.x基础教程：使用LDAP来管理用户与组织数据](http://blog.didispace.com/spring-boot-learning-24-6-2/)
+- [Spring Boot 2.x基础教程：使用时序数据库InfluxDB](http://blog.didispace.com/spring-boot-learning-2-6-3/)
+
 
 ### Web开发
 
