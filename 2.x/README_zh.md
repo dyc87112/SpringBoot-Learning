@@ -26,9 +26,10 @@
 ### 配置文件
 
 - [Spring Boot 2.x基础教程：配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
+- [Spring Boot 2.x基础教程：配置元数据的应用 ](http://blog.didispace.com/spring-boot-learning-24-1-6/)
 - [Spring Boot 2.x基础教程：2.4版本前后的多环境配置变化](http://blog.didispace.com/spring-boot-learning-24-1-4/)
 - [Spring Boot 2.x基础教程：2.4版本前后的分组配置变化](http://blog.didispace.com/spring-boot-learning-24-1-5/)
-- [Spring Boot 2.x基础教程：配置元数据的应用 ](http://blog.didispace.com/spring-boot-learning-24-1-6/)
+- [Spring Boot 2.x基础教程：加密配置中的敏感信息](http://blog.didispace.com/spring-boot-learning-2-1-5/)
 
 ### API开发
 
