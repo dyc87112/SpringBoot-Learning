@@ -1,63 +1,11 @@
-# Spring Boot基础教程（1.x版本）
+该目录下为Spring Boot 1.x版本的教程，因为版本落后，**后续不再继续更新**。
 
-本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
+推荐下面的2.x版本，还在持续更新哦！
 
-**专题目标**：打造全网内容最全，比收费教程更好的Spring Boot免费教程！
+- 教程汇总（1.x版本）：[《Spring Boot基础教程》](https://blog.didispace.com/spring-boot-learning-1x/)
+- 教程汇总（2.x版本）：[《Spring Boot基础教程》](https://blog.didispace.com/spring-boot-learning-2x/)
 
-**加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://blog.didispace.com/join-group-spring/index.html)
-
-**如何支持**：
-1. 关注我的公众号”**程序猿DD**“
-2. 点个`Star`并`Follow`我
-3. 把该仓库分享给更多的朋友
-
-如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个我觉得目前内容与价格最良心的视频课程：["玩转Spring全家桶"](https://time.geekbang.org/course/intro/100023501?code=d1se%2F7ugeBEyuU%2FIYp1ynfSZa6ulbGhhDK%2Fkpn3-lFc%3D)
-
-
-> **关注公众号：“程序猿DD”**，领取我整理的免费学习资料。<br>
-
-## 特别赞助商
-
-<table>
-      <tbody>
-        <tr>
-          <td align="center" valign="middle">
-             <a href="https://start.aliyun.com/" target="_blank">
-               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/001.jpg?raw=true">
-             </a>
-          </td>
-          <td align="center" valign="middle">
-            <a href="http://gk.link/a/103EK" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/002.jpg?raw=true">
-            </a>
-          </td>  
-          <td align="center" valign="middle">
-             <a href="https://openwrite.cn/?from=didi-springcloud" target="_blank">
-               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/003.jpg?raw=true">
-             </a>
-          </td>          
-        </tr>
-        <tr>
-          <td align="center" valign="middle">
-            <a href="https://www.aliyun.com/minisite/goods?userCode=wxfqkr0o&share_source=copy_link" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/004.jpg?raw=true">
-            </a>
-          </td>  
-          <td align="center" valign="middle">
-            <a href="https://curl.qcloud.com/M5wV9Ylj" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/github/005.jpg?raw=true">
-            </a>
-          </td> 
-          <td align="center" valign="middle">
-          </td>
-        </tr>
-      </tbody>
-</table>
-
-> 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
-
-- [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
-- [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
+Spring Boot 2.x版本的教程可在`2.x`目录下查看。
 
 ## 教程目录（1.x版本）
 
@@ -170,8 +118,6 @@
 
 ## 我的公众号
 
-<img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
+<img src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/images/weixin.jpg?raw=true" style="width:150px;height:150px;" />
 
-## 我出版的书
 
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
