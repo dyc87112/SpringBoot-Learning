@@ -6,6 +6,11 @@
     <groupId>com.didispace</groupId>
     <artifactId>SpringBoot-Learning</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
+    <modules>
+        <!-- 默认使用2.x教程下的工程，如果要用1.x的可修改下面的module -->
+        <module>2.x</module>
+    </modules>
 
 </project>

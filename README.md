@@ -7,11 +7,16 @@
 **加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://blog.didispace.com/join-group-spring/index.html)
 
 **如何支持**：
+
 1. 关注我的公众号”**程序猿DD**“
 2. 点个`Star`并`Follow`我
 3. 把该仓库分享给更多的朋友
 
 ## 教程目录
+
+该教程自2016年连载至今，因内容较多，经历过多个版本的迭代。为方便查看学习，这里重新做了整理，根据1.x版本和2.x版本做了区分汇总。
+
+可以通过下面的链接，进入具体版本的教程目录：
 
 - [Spring Boot 2.x 版本教程](./2.x)
 - [Spring Boot 1.x 版本教程](./1.x)
@@ -21,12 +26,9 @@
 ## 推荐内容
 
 - [我的博客](http://blog.didispace.com)：分享平时学习和实践过的技术内容
+- [我的Spring Boot教程](https://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)：全网Star最多的免费Spring Boot基础教程
+- [我的Spring Cloud教程](https://blog.didispace.com/spring-cloud-learning/)：全网最早最全的免费Spring Cloud基础教程
 - [知识星球](https://t.xiaomiquan.com/zfEiY3v)：聊聊技术人的斜杠生活
-- [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
-- [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
-- [Spring问答社区](http://www.spring4all.com/)：如果您有什么问题，可以去这里发帖
-- [Spring Boot基础教程](https://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)：全网Star最多的免费Spring Boot基础教程
-- [Spring Cloud基础教程](https://blog.didispace.com/spring-cloud-learning/)：全网最早最全的免费Spring Cloud基础教程
 
 ## 特别赞助商
 
