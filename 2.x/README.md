@@ -88,6 +88,9 @@
 - [Spring Boot 2.x基础教程：使用Elastic Job的分片配置提高执行效率](https://blog.didispace.com/spring-boot-learning-2-7-3)
 - [Spring Boot 2.x基础教程：使用Elastic Job的namespace防止任务名冲突](https://blog.didispace.com/spring-boot-learning-2-7-4)
 
+- [Spring Boot 2.x基础教程：使用@Async实现异步任务](https://blog.didispace.com/spring-boot-learning-2-7-5)
+
+
 ### 常见问题
 
 - [为什么加了@Transactional注解，事务没有回滚？](http://blog.didispace.com/transactional-not-rollback/)
