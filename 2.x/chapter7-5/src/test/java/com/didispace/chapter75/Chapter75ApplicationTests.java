@@ -5,6 +5,9 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.Future;
+
 @Slf4j
 @SpringBootTest
 public class Chapter75ApplicationTests {
@@ -14,9 +17,17 @@ public class Chapter75ApplicationTests {
 
     @Test
     public void test() throws Exception {
-        asyncTasks.doTaskOne();
-        asyncTasks.doTaskTwo();
-        asyncTasks.doTaskThree();
+        long start = System.currentTimeMillis();
+
+        CompletableFuture<String> task1 = asyncTasks.doTaskOne();
+        CompletableFuture<String> task2 = asyncTasks.doTaskTwo();
+        CompletableFuture<String> task3 = asyncTasks.doTaskThree();
+
+        CompletableFuture.allOf(task1, task2, task3).join();
+
+        long end = System.currentTimeMillis();
+
+        log.info("任务全部完成，总耗时：" + (end - start) + "毫秒");
     }
 
 }
