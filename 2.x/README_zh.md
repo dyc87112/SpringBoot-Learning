@@ -85,12 +85,17 @@
 
 ### 任务管理
 
+**定时任务**
+
 - [Spring Boot 2.x基础教程：使用@Scheduled实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-1)
 - [Spring Boot 2.x基础教程：使用Elastic Job实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-2)
 - [Spring Boot 2.x基础教程：使用Elastic Job的分片配置提高执行效率](https://blog.didispace.com/spring-boot-learning-2-7-3)
 - [Spring Boot 2.x基础教程：使用Elastic Job的namespace防止任务名冲突](https://blog.didispace.com/spring-boot-learning-2-7-4)
 
+**异步任务*
+
 - [Spring Boot 2.x基础教程：使用@Async实现异步任务](https://blog.didispace.com/spring-boot-learning-2-7-5)
+- [Spring Boot 2.x基础教程：配置@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-6)
 
 ### 常见问题
 

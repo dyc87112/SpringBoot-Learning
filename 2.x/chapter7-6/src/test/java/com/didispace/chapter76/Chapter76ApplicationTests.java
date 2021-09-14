@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.Future;
 
 @Slf4j
 @SpringBootTest
@@ -16,7 +15,7 @@ public class Chapter76ApplicationTests {
     private AsyncTasks asyncTasks;
 
     @Test
-    public void test() throws Exception {
+    public void test1() throws Exception {
         long start = System.currentTimeMillis();
 
         CompletableFuture<String> task1 = asyncTasks.doTaskOne();

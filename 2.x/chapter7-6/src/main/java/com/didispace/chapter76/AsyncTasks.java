@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.Random;
 import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.Future;
 
 @Slf4j
 @Component
