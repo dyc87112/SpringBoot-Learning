@@ -76,7 +76,7 @@
         <module>chapter7-3</module>  <!-- 7-3 使用Elastic Job的分片配置 -->
         <module>chapter7-4</module>  <!-- 7-4 使用Elastic Job的namespace防止任务名冲突 -->
         <module>chapter7-5</module>  <!-- 7-5 使用@Async实现异步任务 -->
-
+        <module>chapter7-6</module>  <!-- 7-6 @Async异步任务的线程池配置 -->
 
     </modules>
 </project>
