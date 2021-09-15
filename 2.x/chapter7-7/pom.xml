@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>com.didispace</groupId>
-    <artifactId>chapter7-6</artifactId>
+    <artifactId>chapter7-7</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <description>@Async异步任务的线程池隔离</description>
+    <description>如何隔离@Async异步任务的线程池</description>
 
     <properties>
         <java.version>1.8</java.version>

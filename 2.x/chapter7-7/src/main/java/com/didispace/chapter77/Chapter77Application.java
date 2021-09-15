@@ -16,27 +16,39 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 @EnableAsync
 @SpringBootApplication
-public class Chapter76Application {
+public class Chapter77Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Chapter76Application.class, args);
+        SpringApplication.run(Chapter77Application.class, args);
     }
 
     @EnableAsync
     @Configuration
     class TaskPoolConfig {
 
-//        @Bean
-//        public Executor taskExecutor2() {
-//            ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
-//            executor.setCorePoolSize(1);
-//            executor.setMaxPoolSize(2);
-//            executor.setQueueCapacity(50);
-//            executor.setKeepAliveSeconds(60);
-//            executor.setThreadNamePrefix("taskExecutor2-");
-//            executor.setRejectedExecutionHandler(new ThreadPoolExecutor.CallerRunsPolicy());
-//            return executor;
-//        }
+        @Bean
+        public Executor taskExecutor1() {
+            ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
+            executor.setCorePoolSize(2);
+            executor.setMaxPoolSize(2);
+            executor.setQueueCapacity(10);
+            executor.setKeepAliveSeconds(60);
+            executor.setThreadNamePrefix("executor-1-");
+            executor.setRejectedExecutionHandler(new ThreadPoolExecutor.CallerRunsPolicy());
+            return executor;
+        }
+
+        @Bean
+        public Executor taskExecutor2() {
+            ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
+            executor.setCorePoolSize(2);
+            executor.setMaxPoolSize(2);
+            executor.setQueueCapacity(10);
+            executor.setKeepAliveSeconds(60);
+            executor.setThreadNamePrefix("executor-2-");
+            executor.setRejectedExecutionHandler(new ThreadPoolExecutor.CallerRunsPolicy());
+            return executor;
+        }
 
     }
 

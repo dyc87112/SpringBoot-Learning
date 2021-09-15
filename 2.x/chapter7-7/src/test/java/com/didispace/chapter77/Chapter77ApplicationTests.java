@@ -1,4 +1,4 @@
-package com.didispace.chapter76;
+package com.didispace.chapter77;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
@@ -10,35 +10,27 @@ import java.util.concurrent.Future;
 
 @Slf4j
 @SpringBootTest
-public class Chapter76ApplicationTests {
+public class Chapter77ApplicationTests {
 
     @Autowired
     private AsyncTasks asyncTasks;
 
     @Test
-    public void test1() throws Exception {
+    public void test() throws Exception {
         long start = System.currentTimeMillis();
 
-        CompletableFuture<String> task1 = asyncTasks.doTaskOne();
-        CompletableFuture<String> task2 = asyncTasks.doTaskTwo();
-        CompletableFuture<String> task3 = asyncTasks.doTaskThree();
+        // 线程池1
+        CompletableFuture<String> task1 = asyncTasks.doTaskOne("1");
+        CompletableFuture<String> task2 = asyncTasks.doTaskOne("2");
+        CompletableFuture<String> task3 = asyncTasks.doTaskOne("3");
 
-        CompletableFuture.allOf(task1, task2, task3).join();
+        // 线程池2
+        CompletableFuture<String> task4 = asyncTasks.doTaskTwo("4");
+        CompletableFuture<String> task5 = asyncTasks.doTaskTwo("5");
+        CompletableFuture<String> task6 = asyncTasks.doTaskTwo("6");
 
-        long end = System.currentTimeMillis();
-
-        log.info("任务全部完成，总耗时：" + (end - start) + "毫秒");
-    }
-
-    @Test
-    public void test2() throws Exception {
-        long start = System.currentTimeMillis();
-
-        CompletableFuture<String> task1 = asyncTasks.doTaskFour();
-        CompletableFuture<String> task2 = asyncTasks.doTaskFour();
-        CompletableFuture<String> task3 = asyncTasks.doTaskFour();
-
-        CompletableFuture.allOf(task1, task2, task3).join();
+        // 一起执行
+        CompletableFuture.allOf(task1, task2, task3, task4, task5, task6).join();
 
         long end = System.currentTimeMillis();
 
