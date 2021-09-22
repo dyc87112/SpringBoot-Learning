@@ -77,7 +77,9 @@
         <module>chapter7-4</module>  <!-- 7-4 使用Elastic Job的namespace防止任务名冲突 -->
         <module>chapter7-5</module>  <!-- 7-5 使用@Async实现异步任务 -->
         <module>chapter7-6</module>  <!-- 7-6 配置@Async异步任务的线程池 -->
-        <module>chapter7-7</module>  <!-- 7-7 如何隔离@Async异步任务的线程池-->
+        <module>chapter7-7</module>  <!-- 7-7 如何隔离@Async异步任务的线程池 -->
+        <module>chapter7-8</module>  <!-- 7-8 为@Async异步任务线程池配置拒绝策略 -->
+        <!-- 7-9 为@Async异步任务添加超时时间 -->
 
         <!-- 安全控制 -->
         <module>chapter8-1</module>  <!-- Spring Security快速入门 -->

@@ -97,6 +97,7 @@
 - [Spring Boot 2.x基础教程：使用@Async实现异步任务](https://blog.didispace.com/spring-boot-learning-2-7-5)
 - [Spring Boot 2.x基础教程：配置@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-6)
 - [Spring Boot 2.x基础教程：如何隔离@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-7)
+- [Spring Boot 2.x基础教程：为@Async异步任务的线程池设置拒绝策略](https://blog.didispace.com/spring-boot-learning-2-7-8)
 
 ### 常见问题
 
