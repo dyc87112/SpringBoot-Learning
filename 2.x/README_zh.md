@@ -92,12 +92,12 @@
 - [Spring Boot 2.x基础教程：使用Elastic Job的分片配置提高执行效率](https://blog.didispace.com/spring-boot-learning-2-7-3)
 - [Spring Boot 2.x基础教程：使用Elastic Job的namespace防止任务名冲突](https://blog.didispace.com/spring-boot-learning-2-7-4)
 
-**异步任务*
+**异步任务**
 
 - [Spring Boot 2.x基础教程：使用@Async实现异步任务](https://blog.didispace.com/spring-boot-learning-2-7-5)
 - [Spring Boot 2.x基础教程：配置@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-6)
 - [Spring Boot 2.x基础教程：如何隔离@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-7)
-- [Spring Boot 2.x基础教程：为@Async异步任务的线程池设置拒绝策略](https://blog.didispace.com/spring-boot-learning-2-7-8)
+- [Spring Boot 2.x基础教程：配置线程池的拒绝策略](https://blog.didispace.com/spring-boot-learning-2-7-8)
 
 ### 常见问题
 
