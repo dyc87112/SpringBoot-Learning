@@ -36,7 +36,7 @@ public class Chapter31ApplicationTests {
     }
 
     @Test
-    public void test() throws Exception {
+    public void test() {
         // 插入5个用户
         userSerivce.create("Tom", 10);
         userSerivce.create("Mike", 11);
@@ -55,7 +55,7 @@ public class Chapter31ApplicationTests {
         userSerivce.deleteByName("Tom");
         userSerivce.deleteByName("Mike");
 
-        // 查数据库，应该有5个用户
+        // 查数据库，应该有3个用户
         Assert.assertEquals(3, userSerivce.getAllUsers());
 
     }
