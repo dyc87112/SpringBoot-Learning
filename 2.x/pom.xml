@@ -64,11 +64,12 @@
         <module>chapter5-5</module>  <!-- 使用Redis的发布订阅-->
         <!-- 5-6 Redis + EhCache的二连组合拳 -->
 
-        <!-- 非关系型的数据储存的使用 -->
+        <!-- 其他常见数据储存的使用 -->
         <module>chapter6-1</module>  <!-- 6-1 使用MongoDB -->
         <module>chapter6-2</module>  <!-- 6-2 使用轻量级树状存储 LDAP -->
         <module>chapter6-3</module>  <!-- 6-3 使用时序数据库 InfluxDB -->
-        <!-- 6-4 使用Elasticsearch -->
+        <module>chapter6-4</module>  <!-- 6-4 使用PostgreSQL数据库 -->
+        <!-- 6-5 使用Elasticsearch -->
 
         <!-- 任务管理 -->
         <module>chapter7-1</module>  <!-- 7-1 使用@Scheduled实现定时任务 -->
