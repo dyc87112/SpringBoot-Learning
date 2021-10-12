@@ -7,6 +7,7 @@
 **加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://blog.didispace.com/join-group-spring/index.html)
 
 **如何支持**：
+
 1. 关注我的公众号”**程序猿DD**“
 2. 点个`Star`并`Follow`我
 3. 把该仓库分享给更多的朋友
@@ -85,14 +86,17 @@
 
 ### 任务管理
 
-**定时任务**
+**定时任务：`@Scheduled`实现**
 
 - [Spring Boot 2.x基础教程：使用@Scheduled实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-1)
+
+**定时任务：Elastic Job实现**
+
 - [Spring Boot 2.x基础教程：使用Elastic Job实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-2)
 - [Spring Boot 2.x基础教程：使用Elastic Job的分片配置提高执行效率](https://blog.didispace.com/spring-boot-learning-2-7-3)
 - [Spring Boot 2.x基础教程：使用Elastic Job的namespace防止任务名冲突](https://blog.didispace.com/spring-boot-learning-2-7-4)
 
-**异步任务**
+**异步任务：`@Async`实现**
 
 - [Spring Boot 2.x基础教程：使用@Async实现异步任务](https://blog.didispace.com/spring-boot-learning-2-7-5)
 - [Spring Boot 2.x基础教程：配置@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-6)
@@ -136,11 +140,11 @@
 
 ## 我的公众号
 
-<img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
+<img src="https://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
 
 ## 推荐我的书
 
-![](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
+![Spring Boot微服务实战](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png)
 
 ## 特别赞助商
 
