@@ -16,20 +16,20 @@
 
 ## 教程目录（2.x版本）
 
-连载中...Star关注支持一下，随时获得更新信息！
+本教程内容持续更新连载中！**Star关注**支持一下，随时获得更新信息！
 
-### 基础知识
+### 快速入门
 
 - [Spring Boot 2.x基础教程：版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
 - [Spring Boot 2.x基础教程：快速入门](http://blog.didispace.com/spring-boot-learning-21-1-1/)
 - [Spring Boot 2.x基础教程：工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
 
-### 配置文件
+### 配置详解
 
 - [Spring Boot 2.x基础教程：配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
-- [Spring Boot 2.x基础教程：配置元数据的应用 ](http://blog.didispace.com/spring-boot-learning-24-1-6/)
 - [Spring Boot 2.x基础教程：2.4版本前后的多环境配置变化](http://blog.didispace.com/spring-boot-learning-24-1-4/)
 - [Spring Boot 2.x基础教程：2.4版本前后的分组配置变化](http://blog.didispace.com/spring-boot-learning-24-1-5/)
+- [Spring Boot 2.x基础教程：配置元数据的应用 ](http://blog.didispace.com/spring-boot-learning-24-1-6/)
 - [Spring Boot 2.x基础教程：加密配置中的敏感信息](http://blog.didispace.com/spring-boot-learning-2-1-5/)
 
 ### API开发
@@ -58,7 +58,7 @@
 - [Spring Boot 2.x基础教程：MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
 - [Spring Boot 2.x基础教程：事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
 - [Spring Boot 2.x基础教程：使用Flyway管理数据库版本](http://blog.didispace.com/spring-boot-learning-24-3-11/)
-- [Spring Boot 2.x基础教程：使用JTA实现分布式事务](http://blog.didispace.com/spring-boot-learning-24-3-12/)
+- [Spring Boot 2.x基础教程：使用JTA实现多数据源的事务管理](http://blog.didispace.com/spring-boot-learning-24-3-12/)
 - [Spring Boot 2.x基础教程：2.5版本后数据脚本初始化的变动](http://blog.didispace.com/spring-boot-learning-25-3-13/)
 
 **加速利器：各种缓存的使用**
@@ -81,34 +81,40 @@
 - [Spring Boot 2.x基础教程：使用 Thymeleaf开发Web页面](http://blog.didispace.com/spring-boot-learning-21-4-1/)
 - [Spring Boot 2.x基础教程：使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
 - [Spring Boot 2.x基础教程：实现文件上传](http://blog.didispace.com/spring-boot-learning-21-4-3/)
-- [Spring Boot 2.x基础教程：实现多文件上传](http://blog.didispace.com/spring-boot-learning-21-4-4/)
-- [Spring Boot 2.x基础教程：文件上传的单元测试怎么写](https://blog.didispace.com/spring-boot-learning-21-4-5/)
+- [Spring Boot 2.x基础教程：多个文件的上传](http://blog.didispace.com/spring-boot-learning-21-4-4/)
+- [Spring Boot 2.x基础教程：文件上传的单元测试怎么写](http://blog.didispace.com/spring-boot-learning-21-4-5/)
 
 ### 任务管理
 
-**定时任务：`@Scheduled`实现**
+**定时任务**
 
 - [Spring Boot 2.x基础教程：使用@Scheduled实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-1)
-
-**定时任务：Elastic Job实现**
-
 - [Spring Boot 2.x基础教程：使用Elastic Job实现定时任务](https://blog.didispace.com/spring-boot-learning-2-7-2)
 - [Spring Boot 2.x基础教程：使用Elastic Job的分片配置提高执行效率](https://blog.didispace.com/spring-boot-learning-2-7-3)
 - [Spring Boot 2.x基础教程：使用Elastic Job的namespace防止任务名冲突](https://blog.didispace.com/spring-boot-learning-2-7-4)
 
-**异步任务：`@Async`实现**
+**异步任务**
 
 - [Spring Boot 2.x基础教程：使用@Async实现异步任务](https://blog.didispace.com/spring-boot-learning-2-7-5)
 - [Spring Boot 2.x基础教程：配置@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-6)
 - [Spring Boot 2.x基础教程：如何隔离@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-7)
 - [Spring Boot 2.x基础教程：配置线程池的拒绝策略](https://blog.didispace.com/spring-boot-learning-2-7-8)
 
-### 常见问题
+### 其他内容
+
+- [Spring Boot自定义启动Banner](http://blog.didispace.com/spring-boot-banner/)
+- [实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](http://blog.didispace.com/springbootmailsender/)
+- [使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
+- [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
+
+
+## 问题与思考
 
 - [为什么加了@Transactional注解，事务没有回滚？](http://blog.didispace.com/transactional-not-rollback/)
 - [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
 - [使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
 - [Request header is too large 如何解决？](https://blog.didispace.com/request-header-is-too-large/)
+- [Spring Boot自动化配置的利弊及解决之道](http://blog.didispace.com/spring-boot-disable-autoconfig/)
 
 ## 版本资讯
 
