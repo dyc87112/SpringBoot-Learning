@@ -106,8 +106,9 @@
 - [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
 
 
-## 问题与思考
+## 进阶与深入
 
+- [什么时候不要使用@Autowire](http://blog.didispace.com/when-not-use-autowire-in-spring-boot/)
 - [为什么加了@Transactional注解，事务没有回滚？](http://blog.didispace.com/transactional-not-rollback/)
 - [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
 - [使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
