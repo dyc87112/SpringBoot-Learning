@@ -11,7 +11,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>chapter1-4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chapter1-1</name>
+	<name>chapter1-4</name>
 	<description>配置元数据的应用</description>
 
 	<properties>
