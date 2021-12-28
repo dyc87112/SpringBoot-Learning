@@ -82,8 +82,8 @@
         <module>chapter7-8</module>  <!-- 7-8 为@Async异步任务线程池配置拒绝策略 -->
         <!-- 7-9 为@Async异步任务添加超时时间 -->
 
-        <!-- XXX -->
-<!--        <module>chapter8-1</module>-->
+        <!-- 日志管理 -->
+        <module>chapter8-1</module>  <!-- 8-1 默认日志管理与Logback配置详解 -->
 
 
     </modules>

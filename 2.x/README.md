@@ -98,13 +98,18 @@
 - [Spring Boot 2.x基础教程：如何隔离@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-7)
 - [Spring Boot 2.x基础教程：配置线程池的拒绝策略](https://blog.didispace.com/spring-boot-learning-2-7-8)
 
+### 日志管理
+
+- [Spring Boot 2.x基础教程：默认日志管理与Logback配置详解](https://blog.didispace.com/spring-boot-learning-2-8-1)
+- [Spring Boot 2.x基础教程：使用tinylog记录日志](https://blog.didispace.com/spring-boot-learning-2-8-3)
+- [Spring Boot 2.x基础教程：使用log4j2记录日志](https://blog.didispace.com/spring-boot-learning-2-8-3)
+
 ### 其他内容
 
 - [Spring Boot自定义启动Banner](http://blog.didispace.com/spring-boot-banner/)
 - [实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](http://blog.didispace.com/springbootmailsender/)
 - [使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
 - [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
-
 
 ## 进阶与深入
 
@@ -125,16 +130,7 @@
 - [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
 - [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 
-### 2.x版本信息
-
-- [Spring Boot 2.2 正式发布，大幅性能提升 + Java 13 支持](http://blog.didispace.com/spring-boot-2-2-release/)
-- [Spring Boot 2.3.0 发布](/spring-boot-2-3-0-release/) 
-- [Spring Boot 2.3.0 放弃 Maven 转投 Gradle](/spring-boot-gradle/)
-- [Spring Boot 2.3.2 发布，解决 Too many open files 导致的应用宕机问题](http://blog.didispace.com/spring-boot-2-3-2-release/)
-- [Spring Boot 2.4.0 正式发布！全新的配置处理机制，拥抱云原生！](http://blog.didispace.com/spring-boot-2-4-0-ga/)
-- [Spring Boot 2.4.1 发布，修正大量2.4全新配置机制的Bug](http://blog.didispace.com/spring-boot-2-4-1-release/)
-- [Spring Boot 2.5.0 发布：支持Java16、Gradle 7、Datasource初始化调整](https://blog.didispace.com/spring-boot-2-5-0-release/)
-- [Spring Boot 2.5.1 发布](https://blog.didispace.com/spring-boot-2-5-1-release/)
+更多关于2.x的版本信息可查看[点击查看](http://www.springcloud.com.cn/)
 
 ## 我的公众号
 

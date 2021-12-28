@@ -100,6 +100,12 @@
 - [Spring Boot 2.x基础教程：如何隔离@Async异步任务的线程池](https://blog.didispace.com/spring-boot-learning-2-7-7)
 - [Spring Boot 2.x基础教程：配置线程池的拒绝策略](https://blog.didispace.com/spring-boot-learning-2-7-8)
 
+### 日志管理
+
+- [Spring Boot 2.x基础教程：默认日志管理与Logback配置详解](https://blog.didispace.com/spring-boot-learning-2-8-1)
+- [Spring Boot 2.x基础教程：使用tinylog记录日志](https://blog.didispace.com/spring-boot-learning-2-8-3)
+- [Spring Boot 2.x基础教程：使用log4j2记录日志](https://blog.didispace.com/spring-boot-learning-2-8-3)
+
 ### 其他内容
 
 - [Spring Boot自定义启动Banner](http://blog.didispace.com/spring-boot-banner/)
