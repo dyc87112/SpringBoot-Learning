@@ -8,7 +8,8 @@
 2. 点个`Star`并`Follow`我
 3. 把该仓库分享给更多的朋友
 
-**加入社群**：[如果你正在学习Spring Boot，不妨加入我们的Spring技术交流群，一起成长！](https://blog.didispace.com/join-group-spring/index.html)
+**加入社群**：如果你正在学习Spring Boot，不妨加入我们的[Spring技术交流群](https://blog.didispace.com/join-group-spring/index.html) ，一起成长
+**Spring社区**：如果您在学习过程中碰到问题，可以访问[SpringForAll社区](http://spring4all.com)，描述你的问题，我们会尽快给你答复。当然，如果你想分享你的学习经验，也可以在这里发表你的文章
 
 ## 教程目录
 
