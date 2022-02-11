@@ -85,7 +85,10 @@
         <!-- 日志管理 -->
         <module>chapter8-1</module>  <!-- 8-1 默认日志管理与Logback配置详解 -->
         <module>chapter8-2</module>  <!-- 8-2 使用log4j2记录日志 -->
-        <!-- 8-3 使用tinylog记录日志 -->
+        <module>chapter8-3</module>  <!-- 8-3 使用tinylog记录日志 -->
+
+        <!-- 其他内容 -->
+        <!-- 9-1 如何生成二维码 -->
 
     </modules>
 </project>
