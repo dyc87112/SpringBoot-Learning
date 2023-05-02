@@ -49,7 +49,7 @@ public class Chapter21ApplicationTests {
         request = get("/users/");
         mvc.perform(request)
                 .andExpect(status().isOk())
-                .andExpect(content().string(equalTo("[{\"id\":1,\"name\":\"测试大师\",\"age\":20}]")));
+                .andExpect(content().json("[{\"id\":1,\"name\":\"测试大师\",\"age\":20}]"));
 
         // 4、put修改id为1的user
         request = put("/users/1")
@@ -61,7 +61,7 @@ public class Chapter21ApplicationTests {
         // 5、get一个id为1的user
         request = get("/users/1");
         mvc.perform(request)
-                .andExpect(content().string(equalTo("{\"id\":1,\"name\":\"测试终极大师\",\"age\":30}")));
+                .andExpect(content().json("{\"id\":1,\"name\":\"测试终极大师\",\"age\":30}"));
 
         // 6、del删除id为1的user
         request = delete("/users/1");
