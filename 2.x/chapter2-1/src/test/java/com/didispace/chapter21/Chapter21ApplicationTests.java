@@ -9,6 +9,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.RequestBuilder;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
+import org.springframework.web.filter.CharacterEncodingFilter;
+
+import java.nio.charset.StandardCharsets;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
@@ -24,7 +27,9 @@ public class Chapter21ApplicationTests {
 
     @Before
     public void setUp() {
-        mvc = MockMvcBuilders.standaloneSetup(new UserController()).build();
+        mvc = MockMvcBuilders.standaloneSetup(new UserController())
+				.addFilters(new CharacterEncodingFilter(StandardCharsets.UTF_8.name(), true))
+				.build();
     }
 
     @Test
