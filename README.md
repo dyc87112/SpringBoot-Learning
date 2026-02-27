@@ -1,4 +1,5 @@
 # Spring Boot基础教程
+[![Maintainability](https://cloud.quality-gate.com/dashboard/api/badge?projectName=dyc87112_SpringBoot-Learning&branchName=master)](https://cloud.quality-gate.com/dashboard/branches/226035#overview)
 
 **专题目标**：打造全网内容最全，比收费教程更好的Spring Boot免费教程！
 
